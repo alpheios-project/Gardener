@@ -1,4 +1,4 @@
-{
+{:uriI"†file://_assets/arethusa/configs/default.json?type=application/json&id=03588ddc6f7940425e5aaa544e05ee666813643d92b9b9d1e80a15e2e69fdae8:ET:load_pathI"_assets/arethusa;T:filenameI"*_assets/arethusa/configs/default.json;T:	nameI"configs/default;T:logical_pathI"configs/default.json;T:content_typeI"application/json;T:sourceI"—{
   "fakeResolver" : {
     "route" : "http://localhost:8090/resolve/:urn",
     "params": [
@@ -33,3 +33,7 @@
     "route" : "https://services.perseids.org/sg/:doc.html"
   }
 }
+;T:metadata{	:dependencieso:Set:
+@hash{	I"environment-version;TTI"environment-paths;TTI"@processors:type=application/json&file_type=application/json;TTI"8file-digest://_assets/arethusa/configs/default.json;TT:charsetI"
+utf-8;F:digest"%–åUî¢®[®—t_P(LÁâCdÂMüâ3›âi 0:lengthi—:dependencies_digest"%ÿ$·ôPtÕ§[nÓsUs°gŸgĞ²›[Ö³ çÿÌ]Í:idI"E03588ddc6f7940425e5aaa544e05ee666813643d92b9b9d1e80a15e2e69fdae8;F:
+mtimel+J·ĞZ
