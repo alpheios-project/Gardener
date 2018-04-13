@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="Alpheios Treebank Collection : Alpheios Greek and Latin Treenkbank Data
+">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=">
+
+    <title>Alpheios Treebank Collection</title>
+  </head>
+
+  <body>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/assets/arethusa.packages.min.js"></script>
+<script type="text/javascript" src="/assets/arethusa.min.js"></script>
+<script type="text/javascript" src="/assets/arethusa.widget.loader.js"></script>
+<script type="text/javascript">
+
+
+
+var base = "phi0959.phi006/data/phi0959.phi006.alpheios-text-lat1.tb.xml"
+
+$(document).ready(function() {
+  var deps = {
+    "css": {
+      "arethusa":"/assets/css/arethusa.min.css",
+      "colorpicker":"/assets/css/colorpicker.css",
+      "font_awesome":"/assets/css/font-awesome.min.css",
+      "foundation":"/assets/css/foundation-icons.css"
+    },
+    "js":{
+      "arethusa":"/assets/javascripts/arethusa.min.js",
+      "packages":"/assets/javascripts/arethusa.packages.min.js"
+    }
+  }
+
+  window.i18npath = "assets/i18n/";
+  window.dagred3path = "vendor/dagre-d3.min.js";
+  loadArethusaWidget(
+    "treebank_container",
+    "assets/",
+    "assets/tbpub.json",
+    { doc: base },
+    deps
+  );
+});
+</script>
+
+<script>
+    var node;
+    var DOI = ""
+    if(DOI.length > 0) {
+        node = document.getElementById('if-part');
+        node.style.visibility = 'visible';
+        }
+</script>
+
+<div class="__artsa">
+  <div id="treebank_container" style="position:relative;">
+  </div>
+</div>
+
+    </div>
+
+    
+  </body>
+</html>
