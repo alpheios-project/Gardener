@@ -16,7 +16,7 @@ var base = "{{ page.pubdir }}/data/{{ page.tbfile }}"
 
 $(document).ready(function() {
   var deps = {
-    "css": {  
+    "css": {
       "arethusa":"{{ "/assets/css/arethusa.min.css" | relative_url }}",
       "colorpicker":"{{ "/assets/css/colorpicker.css" | relative_url }}",
       "font_awesome":"{{ "/assets/css/font-awesome.min.css" | relative_url }}",
@@ -36,12 +36,9 @@ $(document).ready(function() {
     "assets/tbpub.json",
     { doc: base },
     deps
-  ); 
+  );
 });
 </script>
- 
-<div id='if-part' style='visibility: hidden;'><a href="https://doi.org/{{ site.DOI }}"><img src="https://sandbox.zenodo.org/badge/DOI/{{ site.DOI }}.svg" alt="DOI"></a></div>
-
 
 <script>
     var node;
@@ -52,22 +49,7 @@ $(document).ready(function() {
         }
 </script>
 
-<div class="tbpage">
-<h4>{{ page.title }}</h4>
-<h4>Work : {{ page.work }}</h4>
-<h4>Author : {{ page.author }}</h4>
-<h4>Editor : {{ page.editor }}</h4>
-<h4>Locus : {{ page.locus  }}</h4>
-{{ content }}
-
-
 <div class="__artsa">
   <div id="treebank_container" style="position:relative;">
   </div>
 </div>
-
-</div>
-
-
-
-
