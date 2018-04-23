@@ -25,7 +25,8 @@
   },
   "notifier": {
     "duration": "5000",
-    "maxMessages": 7
+    "maxMessages": 7,
+    "disable": true
   },
   "navigator": {
     "chunkSize": 1
@@ -33,7 +34,7 @@
   "navbar": {
     "template": "js\/templates\/navbar.widget.html",
     "search": true,
-    "notifier": true,
+    "notifier": false,
     "navigation": true,
     "logo": "images\/arethusa-icon-small.png"
   },

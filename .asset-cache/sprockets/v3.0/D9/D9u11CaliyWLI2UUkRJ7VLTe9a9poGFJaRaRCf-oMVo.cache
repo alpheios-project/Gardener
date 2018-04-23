@@ -1,4 +1,5 @@
-{
+{:uriI"|file://_assets/arethusa/tbpub.json?type=application/json&id=50a0cc48dd30a0bc1aeff8daf303144d9000fa5a781a586b5d081cade87320a3:ET:load_pathI"_assets/arethusa;T:filenameI" _assets/arethusa/tbpub.json;T:	nameI"
+tbpub;T:logical_pathI"tbpub.json;T:content_typeI"application/json;T:sourceI"{
   "main": {
     "debug": false,
     "showKeys": false,
@@ -102,3 +103,7 @@
     "keys": {}
   }
 }
+;T:metadata{	:dependencieso:Set:
+@hash{	I"environment-version;TTI"environment-paths;TTI"@processors:type=application/json&file_type=application/json;TTI".file-digest://_assets/arethusa/tbpub.json;TT:charsetI"
+utf-8;F:digest"%Tñğ!KâšÅir#ÊGtF°˜×Ÿ9T`%ql:lengthi:dependencies_digest"%ïÖTª¿4ÕK‹ü+¶s©&sšLŠ¸ĞÉTË÷¨—€–:idI"E50a0cc48dd30a0bc1aeff8daf303144d9000fa5a781a586b5d081cade87320a3;F:
+mtimel+DŞZ
