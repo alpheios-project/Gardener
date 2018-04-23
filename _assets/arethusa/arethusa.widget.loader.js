@@ -28,4 +28,3 @@ function loadArethusaWidget (elementId,remoteUrl,appConf,resourceConf,deps) {
         })
 //    )
 }
-
