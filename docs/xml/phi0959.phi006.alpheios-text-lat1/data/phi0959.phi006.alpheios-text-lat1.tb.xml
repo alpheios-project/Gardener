@@ -23,7 +23,7 @@
 		<address>Tufts University, Medford, MA, USA</address>
 	</annotator>
 
-	<sentence id="1" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=1" span="in0:corpora0">
+	<sentence id="1" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.1" span="in0:corpora0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -36,7 +36,7 @@
 		<word id="7" form="formas" lemma="forma1" postag="n-p---fa-" head="6" relation="OBJ" />
 		<word id="8" form="corpora" lemma="corpus1" postag="n-p---na-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="2" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=1" span="di0:carmen0">
+	<sentence id="2" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.1" span="di0:carmen0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -64,7 +64,7 @@
 		<word id="22" form="tempora" lemma="tempus1" postag="n-p---na-" head="18" relation="ADV" />
 		<word id="23" form="carmen" lemma="carmen1" postag="n-s---na-" head="21" relation="OBJ" />
 	</sentence>
-	<sentence id="3" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=5" span="ante0:chaos0">
+	<sentence id="3" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.5" span="ante0:chaos0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -89,7 +89,7 @@
 		<word id="19" form="dixere" lemma="dico2" postag="v3pria---" head="14" relation="ATR" />
 		<word id="20" form="chaos" lemma="Chaos1" postag="a-s---na-" head="19" relation="OCOMP" />
 	</sentence>
-	<sentence id="4" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=5" span="rudis0:rerum0">
+	<sentence id="4" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.5" span="rudis0:rerum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -113,7 +113,7 @@
 		<word id="18" form="semina" lemma="semen1" postag="n-p---na-" head="11" relation="OBJ_CO" />
 		<word id="19" form="rerum" lemma="res1" postag="n-p---fg-" head="18" relation="ATR" />
 	</sentence>
-	<sentence id="5" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="quae0:vocat0">
+	<sentence id="5" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="quae0:vocat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -151,7 +151,7 @@
 		<word id="32" form="concilium" lemma="concilium1" postag="n-s---na-" head="33" relation="OBJ" />
 		<word id="33" form="vocat" lemma="voco1" postag="v3spia---" head="31" relation="PRED_CO" />
 	</sentence>
-	<sentence id="6" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="tenuit0:vocatos0">
+	<sentence id="6" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="tenuit0:vocatos0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -160,7 +160,7 @@
 		<word id="3" form="nulla" lemma="nullus1" postag="a-s---fn-" head="2" relation="ATR" />
 		<word id="4" form="vocatos" lemma="voco1" postag="t-prppma-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="7" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="est0:sereno0">
+	<sentence id="7" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="est0:sereno0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -172,7 +172,7 @@
 		<word id="6" form="manifesta" lemma="manifestus1" postag="a-s---fn-" head="4" relation="PNOM" />
 		<word id="7" form="sereno" lemma="serenus1" postag="a-s---nb-" head="1" relation="ADV" />
 	</sentence>
-	<sentence id="8" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="lactea0:ipso0">
+	<sentence id="8" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="lactea0:ipso0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -184,7 +184,7 @@
 		<word id="6" form="notabilis" lemma="notabilis1" postag="a-s---fn-" head="4" relation="ATR" />
 		<word id="7" form="ipso" lemma="ipse1" postag="p-s---mb-" head="5" relation="SBJ" />
 	</sentence>
-	<sentence id="9" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="hac0:domum0">
+	<sentence id="9" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="hac0:domum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -200,7 +200,7 @@
 		<word id="10" form="regalem" lemma="regalis" postag="a-s---fa-" head="11" relation="ATR" />
 		<word id="11" form="domum" lemma="domus1" postag="n-s---fa-" head="9" relation="OBJ_CO" />
 	</sentence>
-	<sentence id="10" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="dextra0:)0">
+	<sentence id="10" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="dextra0:)0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -220,7 +220,7 @@
 		<word id="14" form="locis" lemma="locus1" postag="n-p---mb-" head="12" relation="OBJ" />
 		<word id="15" form=")" lemma="RPAREN1" postag="u--------" head="12" relation="AuxG" />
 	</sentence>
-	<sentence id="11" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="hac1:penates0">
+	<sentence id="11" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="hac1:penates0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -234,7 +234,7 @@
 		<word id="8" form="posuere" lemma="pono1" postag="v3pria---" head="0" relation="PRED" />
 		<word id="9" form="penates" lemma="Penates1" postag="n-p---ma-" head="8" relation="OBJ" />
 	</sentence>
-	<sentence id="12" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="hic0:caeli0">
+	<sentence id="12" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="hic0:caeli0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -256,7 +256,7 @@
 		<word id="16" form="Palatia" lemma="Palatium1" postag="n-p---na-" head="15" relation="OBJ" />
 		<word id="17" form="caeli" lemma="caelum1" postag="n-s---ng-" head="16" relation="ATR" />
 	</sentence>
-	<sentence id="13" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="ergo0:movit0">
+	<sentence id="13" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="ergo0:movit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -292,7 +292,7 @@
 		<word id="30" form="sidera" lemma="sidus1" postag="n-p---na-" head="29" relation="OBJ_CO" />
 		<word id="31" form="movit" lemma="moveo1" postag="v3sria---" head="22" relation="ATR" />
 	</sentence>
-	<sentence id="14" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="talibus0:solvit0">
+	<sentence id="14" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="talibus0:solvit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -303,7 +303,7 @@
 		<word id="5" form="indignantia" lemma="indignor1" postag="t-pppana-" head="4" relation="ATR" />
 		<word id="6" form="solvit" lemma="solvo1" postag="v3sria---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="15" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="non0:caelo1">
+	<sentence id="15" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="non0:caelo1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -328,7 +328,7 @@
 		<word id="19" form="bracchia" lemma="bracchium1" postag="n-p---na-" head="16" relation="OBJ" />
 		<word id="20" form="caelo" lemma="caelum1" postag="n-s---nd-" head="16" relation="OBJ" />
 	</sentence>
-	<sentence id="16" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="nam0:bellum0">
+	<sentence id="16" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="nam0:bellum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -350,7 +350,7 @@
 		<word id="16" form="origine" lemma="origo1" postag="n-s---fb-" head="13" relation="OBJ_CO" />
 		<word id="17" form="bellum" lemma="bellum1" postag="n-s---nn-" head="15" relation="SBJ" />
 	</sentence>
-	<sentence id="17" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="nunc0:genus0">
+	<sentence id="17" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="nunc0:genus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -368,7 +368,7 @@
 		<word id="12" form="mortale" lemma="mortalis1" postag="a-s---nn-" head="13" relation="ATR" />
 		<word id="13" form="genus" lemma="genus1" postag="n-s---nn-" head="11" relation="SBJ" />
 	</sentence>
-	<sentence id="18" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="per0:luco0">
+	<sentence id="18" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="per0:luco0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -383,7 +383,7 @@
 		<word id="9" form="labentia" lemma="labor1" postag="t-pppana-" head="5" relation="ATR_CO" />
 		<word id="10" form="luco" lemma="lucus1" postag="n-s---mb-" head="9" relation="ADV" />
 	</sentence>
-	<sentence id="19" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="cuncta0:temptata0">
+	<sentence id="19" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="cuncta0:temptata0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -391,7 +391,7 @@
 		<word id="2" form="prius" lemma="prior1" postag="d--------" head="3" relation="ADV" />
 		<word id="3" form="temptata" lemma="tento1" postag="t-prppnn-" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="20" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="sed0:trahatur0">
+	<sentence id="20" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="sed0:trahatur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -407,7 +407,7 @@
 		<word id="10" form="sincera" lemma="sincerus1" postag="a-s---fn-" head="9" relation="ATR" />
 		<word id="11" form="trahatur" lemma="traho1" postag="v3spsp---" head="8" relation="ADV" />
 	</sentence>
-	<sentence id="21" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="sunt0:silvani0">
+	<sentence id="21" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="sunt0:silvani0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -427,7 +427,7 @@
 		<word id="14" form="monticolae" lemma="monticola1" postag="n-p---mn-" head="15" relation="ATR" />
 		<word id="15" form="silvani" lemma="Silvanus1" postag="n-s---mg-" head="13" relation="SBJ_CO" />
 	</sentence>
-	<sentence id="22" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="quos0:sinamus0">
+	<sentence id="22" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="quos0:sinamus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -445,7 +445,7 @@
 		<word id="12" form="habitare" lemma="habito1" postag="v--pna---" head="13" relation="OBJ" />
 		<word id="13" form="sinamus" lemma="sino1" postag="v1ppsa---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="23" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="an0:lycaon0">
+	<sentence id="23" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="an0:lycaon0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -479,7 +479,7 @@
 		<word id="28" form="feritate" lemma="feritas1" postag="n-s---fb-" head="27" relation="ADV" />
 		<word id="29" form="Lycaon" lemma="Lycaon1" postag="n-s---mn-" head="25" relation="SBJ" />
 	</sentence>
-	<sentence id="24" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="confremuere0:deposcunt0">
+	<sentence id="24" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="confremuere0:deposcunt0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -492,7 +492,7 @@
 		<word id="7" form="talia" lemma="talis1" postag="a-p---na-" head="6" relation="OBJ" />
 		<word id="8" form="deposcunt" lemma="deposco1" postag="v3ppia---" head="3" relation="PRED_CO" />
 	</sentence>
-	<sentence id="25" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="sic0:orbis0">
+	<sentence id="25" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="sic0:orbis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -521,7 +521,7 @@
 		<word id="23" form="perhorruit" lemma="perhorresco1" postag="v3sria---" head="21" relation="PRED_CO" />
 		<word id="24" form="orbis" lemma="orbis1" postag="n-s---mn-" head="23" relation="SBJ" />
 	</sentence>
-	<sentence id="26" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="nec0:cuncti0">
+	<sentence id="26" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="nec0:cuncti0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -554,7 +554,7 @@
 		<word id="27" form="silentia" lemma="silentium1" postag="n-p---na-" head="26" relation="OBJ" />
 		<word id="28" form="cuncti" lemma="cunctus1" postag="a-p---mn-" head="26" relation="SBJ" />
 	</sentence>
-	<sentence id="27" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="substitit0:rupit0">
+	<sentence id="27" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="substitit0:rupit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -572,7 +572,7 @@
 		<word id="12" form="silentia" lemma="silentium1" postag="n-p---na-" head="13" relation="OBJ" />
 		<word id="13" form="rupit" lemma="rumpo1" postag="v3sria---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="28" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="ille0:solvit1">
+	<sentence id="28" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="ille0:solvit1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -586,7 +586,7 @@
 		<word id="8" form="," lemma="comma1" postag="u--------" head="7" relation="AuxX" />
 		<word id="9" form="solvit" lemma="solvo1" postag="v3sria---" head="7" relation="ADV" />
 	</sentence>
-	<sentence id="29" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="quod0:docebo0">
+	<sentence id="29" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="quod0:docebo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -600,7 +600,7 @@
 		<word id="8" form="," lemma="comma1" postag="u--------" head="9" relation="AuxX" />
 		<word id="9" form="docebo" lemma="doceo1" postag="v1sfia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="30" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="contigerat0:aures0">
+	<sentence id="30" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="contigerat0:aures0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -610,7 +610,7 @@
 		<word id="4" form="temporis" lemma="tempus1" postag="n-s---ng-" head="3" relation="ATR" />
 		<word id="5" form="aures" lemma="auris1" postag="n-p---fa-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="31" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="quam1:terras2">
+	<sentence id="31" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="quam1:terras2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -628,7 +628,7 @@
 		<word id="12" form="imagine" lemma="imago1" postag="n-s---fb-" head="11" relation="ADV" />
 		<word id="13" form="terras" lemma="terra1" postag="n-p---fa-" head="10" relation="OBJ" />
 	</sentence>
-	<sentence id="32" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="longa0:enumerare0">
+	<sentence id="32" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="longa0:enumerare0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -644,7 +644,7 @@
 		<word id="10" form="," lemma="comma1" postag="u--------" head="9" relation="AuxX" />
 		<word id="11" form="enumerare" lemma="enumero1" postag="v--pna---" head="3" relation="SBJ" />
 	</sentence>
-	<sentence id="33" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="minor0:vero0">
+	<sentence id="33" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="minor0:vero0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -654,7 +654,7 @@
 		<word id="4" form="infamia" lemma="infamia1" postag="n-s---fn-" head="2" relation="SBJ" />
 		<word id="5" form="vero" lemma="verum1" postag="n-s---nb-" head="4" relation="AuxY" />
 	</sentence>
-	<sentence id="34" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="maenala0:lycaei0">
+	<sentence id="34" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="maenala0:lycaei0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -670,7 +670,7 @@
 		<word id="10" form="pineta" lemma="pinetum1" postag="n-p---na-" head="6" relation="OBJ_CO" />
 		<word id="11" form="Lycaei" lemma="Lycaeus1" postag="n-s---mg-" head="10" relation="ATR" />
 	</sentence>
-	<sentence id="35" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="arcadis0:noctem0">
+	<sentence id="35" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="arcadis0:noctem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -689,7 +689,7 @@
 		<word id="13" form="crepuscula" lemma="crepusculum1" postag="n-p---nn-" head="10" relation="SBJ" />
 		<word id="14" form="noctem" lemma="nox1" postag="n-s---fa-" head="10" relation="OBJ" />
 	</sentence>
-	<sentence id="36" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="signa0:coeperat0">
+	<sentence id="36" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="signa0:coeperat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -703,7 +703,7 @@
 		<word id="8" form="precari" lemma="precor1" postag="v--pnp---" head="9" relation="OBJ" />
 		<word id="9" form="coeperat" lemma="coepio1" postag="v3slia---" head="6" relation="PRED_CO" />
 	</sentence>
-	<sentence id="37" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="inridet0:mortalis0">
+	<sentence id="37" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="inridet0:mortalis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -727,7 +727,7 @@
 		<word id="18" form="sit" lemma="sum1" postag="v3spsa---" head="10" relation="OBJ" />
 		<word id="19" form="mortalis" lemma="mortalis1" postag="a-s---mn-" head="17" relation="PNOM_CO" />
 	</sentence>
-	<sentence id="38" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="nec1:verum0">
+	<sentence id="38" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="nec1:verum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -737,7 +737,7 @@
 		<word id="4" form="dubitabile" lemma="dubitabilis1" postag="a-s---nn-" head="3" relation="PNOM" />
 		<word id="5" form="verum" lemma="verum2" postag="n-s---nn-" head="3" relation="SBJ" />
 	</sentence>
-	<sentence id="39" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="nocte0:parat0">
+	<sentence id="39" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="nocte0:parat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -750,7 +750,7 @@
 		<word id="7" form="me" lemma="ego1" postag="p-s---ma-" head="5" relation="OBJ" />
 		<word id="8" form="parat" lemma="paro1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="40" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="haec0:veri0">
+	<sentence id="40" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="haec0:veri0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -760,7 +760,7 @@
 		<word id="4" form="experientia" lemma="experientia1" postag="n-s---fn-" head="3" relation="SBJ" />
 		<word id="5" form="veri" lemma="verum1" postag="n-s---ng-" head="4" relation="ATR" />
 	</sentence>
-	<sentence id="41" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="nec2:est8">
+	<sentence id="41" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="nec2:est8">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -770,7 +770,7 @@
 		<word id="4" form="eo" lemma="is1" postag="p-s---nb-" head="3" relation="OBJ" />
 		<word id="5" form="est" lemma="sum1" postag="v3spia---" head="1" relation="PRED_CO" />
 	</sentence>
-	<sentence id="42" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="missi0:igni0">
+	<sentence id="42" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="missi0:igni0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -798,7 +798,7 @@
 		<word id="22" form="torruit" lemma="torreo1" postag="v3sria---" head="19" relation="PRED_CO" />
 		<word id="23" form="igni" lemma="ignis1" postag="n-s---mb-" head="22" relation="ADV" />
 	</sentence>
-	<sentence id="43" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="quod1:penates1">
+	<sentence id="43" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="quod1:penates1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -817,7 +817,7 @@
 		<word id="13" form="tecta" lemma="tectum1" postag="n-p---na-" head="12" relation="OBJ" />
 		<word id="14" form="penates" lemma="Penates1" postag="n-p---ma-" head="12" relation="OBJ" />
 	</sentence>
-	<sentence id="44" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="territus0:conatur0">
+	<sentence id="44" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="territus0:conatur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -835,7 +835,7 @@
 		<word id="12" form="loqui" lemma="loquor1" postag="v--pnp---" head="13" relation="OBJ" />
 		<word id="13" form="conatur" lemma="conor1" postag="v3spip---" head="10" relation="PRED_CO" />
 	</sentence>
-	<sentence id="45" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="ab1:gaudet0">
+	<sentence id="45" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="ab1:gaudet0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -858,7 +858,7 @@
 		<word id="17" form="sanguine" lemma="sanguis1" postag="n-s---mb-" head="18" relation="ADV" />
 		<word id="18" form="gaudet" lemma="gaudeo1" postag="v3spia---" head="14" relation="PRED_CO" />
 	</sentence>
-	<sentence id="46" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="in2:lacerti0">
+	<sentence id="46" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="in2:lacerti0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -871,7 +871,7 @@
 		<word id="7" form="crura" lemma="crus1" postag="n-p---na-" head="6" relation="OBJ" />
 		<word id="8" form="lacerti" lemma="lacertus1" postag="n-p---mn-" head="5" relation="SBJ_ExD0_PRED_CO" />
 	</sentence>
-	<sentence id="47" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="fit0:formae0">
+	<sentence id="47" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="fit0:formae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -883,7 +883,7 @@
 		<word id="6" form="vestigia" lemma="vestigium1" postag="n-p---na-" head="5" relation="OBJ" />
 		<word id="7" form="formae" lemma="forma1" postag="n-s---fg-" head="6" relation="ATR" />
 	</sentence>
-	<sentence id="48" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="canities0:est10">
+	<sentence id="48" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="canities0:est10">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -904,7 +904,7 @@
 		<word id="15" form="imago" lemma="imago1" postag="n-s---fn-" head="16" relation="SBJ" />
 		<word id="16" form="est" lemma="sum1" postag="v3spia---" head="12" relation="PRED_CO" />
 	</sentence>
-	<sentence id="49" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="occidit0:domus0">
+	<sentence id="49" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="occidit0:domus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -912,7 +912,7 @@
 		<word id="2" form="una" lemma="unus1" postag="a-s---fn-" head="3" relation="ATR" />
 		<word id="3" form="domus" lemma="domus1" postag="n-s---fn-" head="1" relation="SBJ" />
 	</sentence>
-	<sentence id="50" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="sed1:fuit2">
+	<sentence id="50" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="sed1:fuit2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -924,7 +924,7 @@
 		<word id="6" form="digna" lemma="dignus1" postag="a-s---fn-" head="7" relation="PNOM" />
 		<word id="7" form="fuit" lemma="sum1" postag="v3sria---" head="1" relation="PRED_CO" />
 	</sentence>
-	<sentence id="51" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="qua3:erinys0">
+	<sentence id="51" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="qua3:erinys0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -936,7 +936,7 @@
 		<word id="6" form="regnat" lemma="regno1" postag="v3spia---" head="0" relation="PRED" />
 		<word id="7" form="Erinys" lemma="Erinys1" postag="n-s---fn-" head="6" relation="SBJ" />
 	</sentence>
-	<sentence id="52" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="in4:putes0">
+	<sentence id="52" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="in4:putes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -945,7 +945,7 @@
 		<word id="3" form="iurasse" lemma="juro1" postag="v--rna---" head="4" relation="OBJ" />
 		<word id="4" form="putes" lemma="puto1" postag="v2spsa---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="53" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="dent0:poenas1">
+	<sentence id="53" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="dent0:poenas1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -962,7 +962,7 @@
 		<word id="11" form=")" lemma="RPAREN1" postag="u--------" head="9" relation="AuxG" />
 		<word id="12" form="poenas" lemma="poena1" postag="n-p---fa-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="54" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="dicta0:inplent0">
+	<sentence id="54" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="dicta0:inplent0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -981,7 +981,7 @@
 		<word id="13" form="adsensibus" lemma="assensus2" postag="n-p---mb-" head="14" relation="ADV" />
 		<word id="14" form="inplent" lemma="inpleo" postag="v3ppia---" head="10" relation="PRED_CO" />
 	</sentence>
-	<sentence id="55" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="est11:terras3">
+	<sentence id="55" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="est11:terras3">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1019,7 +1019,7 @@
 		<word id="32" form="tradere" lemma="trado1" postag="v--pna---" head="30" relation="OBJ" />
 		<word id="33" form="terras" lemma="terra1" postag="n-p---fa-" head="32" relation="OBJ" />
 	</sentence>
-	<sentence id="56" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=163" span="talia1:mira0">
+	<sentence id="56" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.163" span="talia1:mira0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1045,7 +1045,7 @@
 		<word id="20" form="origine" lemma="origo1" postag="n-s---fb-" head="19" relation="ADV" />
 		<word id="21" form="mira" lemma="mirus1" postag="a-s---fb-" head="20" relation="ATR" />
 	</sentence>
-	<sentence id="57" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="iamque0:terras0">
+	<sentence id="57" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="iamque0:terras0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1057,7 +1057,7 @@
 		<word id="6" form="fulmina" lemma="fulmen1" postag="n-p---na-" head="5" relation="OBJ" />
 		<word id="7" form="terras" lemma="terra1" postag="n-p---fa-" head="3" relation="ADV" />
 	</sentence>
-	<sentence id="58" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="sed0:axis0">
+	<sentence id="58" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="sed0:axis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1078,7 +1078,7 @@
 		<word id="15" form="ardesceret" lemma="ardesco1" postag="v3sisa---" head="13" relation="ADV_CO" />
 		<word id="16" form="axis" lemma="axis1" postag="n-s---mn-" head="15" relation="SBJ" />
 	</sentence>
-	<sentence id="59" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="esse0:laboret0">
+	<sentence id="59" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="esse0:laboret0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1107,7 +1107,7 @@
 		<word id="23" form="obsessa" lemma="obsedeo" postag="t-srppfn-" head="24" relation="ATR" />
 		<word id="24" form="laboret" lemma="laboro1" postag="v3spsa---" head="20" relation="ATR_CO" />
 	</sentence>
-	<sentence id="60" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="tela0:cyclopum0">
+	<sentence id="60" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="tela0:cyclopum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1117,7 +1117,7 @@
 		<word id="4" form="fabricata" lemma="fabricor1" postag="t-prppnn-" head="1" relation="ATR" />
 		<word id="5" form="Cyclopum" lemma="Clycops" postag="n-p---mg-" head="3" relation="ATR" />
 	</sentence>
-	<sentence id="61" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="poena0:caelo0">
+	<sentence id="61" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="poena0:caelo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1137,7 +1137,7 @@
 		<word id="14" form="demittere" lemma="demitto1" postag="v--pna---" head="10" relation="SBJ_CO" />
 		<word id="15" form="caelo" lemma="caelum1" postag="n-s---nb-" head="11" relation="ADV" />
 	</sentence>
-	<sentence id="62" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="protinus0:notum0">
+	<sentence id="62" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="protinus0:notum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1157,7 +1157,7 @@
 		<word id="14" form="emittit" lemma="emitto1" postag="v3spia---" head="13" relation="PRED_CO" />
 		<word id="15" form="Notum" lemma="Notus2" postag="n-s---ma-" head="14" relation="OBJ" />
 	</sentence>
-	<sentence id="63" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="madidis0:vultum0">
+	<sentence id="63" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="madidis0:vultum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1172,7 +1172,7 @@
 		<word id="9" form="caligine" lemma="caligo1" postag="n-s---fb-" head="8" relation="ADV" />
 		<word id="10" form="vultum" lemma="vultus1" postag="n-s---ma-" head="8" relation="OBJ" />
 	</sentence>
-	<sentence id="64" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="barba0:capillis0">
+	<sentence id="64" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="barba0:capillis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1185,7 +1185,7 @@
 		<word id="7" form="unda" lemma="unda1" postag="n-s---fn-" head="6" relation="SBJ" />
 		<word id="8" form="capillis" lemma="capillus1" postag="n-p---mb-" head="6" relation="OBJ" />
 	</sentence>
-	<sentence id="65" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="fronte0:sinusque0">
+	<sentence id="65" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="fronte0:sinusque0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1199,7 +1199,7 @@
 		<word id="8" form="que" lemma="que1" postag="c--------" head="5" relation="COORD" />
 		<word id="9" form="sinus" lemma="sinus1" postag="n-p---mn-" head="8" relation="SBJ_CO" />
 	</sentence>
-	<sentence id="66" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="utque0:fragor0">
+	<sentence id="66" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="utque0:fragor0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1214,7 +1214,7 @@
 		<word id="9" form="fit" lemma="fio1" postag="v3spia---" head="1" relation="PRED_CO" />
 		<word id="10" form="fragor" lemma="fragor1" postag="n-s---mn-" head="9" relation="SBJ" />
 	</sentence>
-	<sentence id="67" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="hinc0:nimbi0">
+	<sentence id="67" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="hinc0:nimbi0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1225,7 +1225,7 @@
 		<word id="5" form="aethere" lemma="aether1" postag="n-s---mb-" head="4" relation="ADV" />
 		<word id="6" form="nimbi" lemma="nimbus1" postag="n-p---mn-" head="3" relation="SBJ" />
 	</sentence>
-	<sentence id="68" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="nuntia0:adfert0">
+	<sentence id="68" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="nuntia0:adfert0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1242,7 +1242,7 @@
 		<word id="11" form="nubibus" lemma="nubes1" postag="n-p---fd-" head="12" relation="OBJ" />
 		<word id="12" form="adfert" lemma="affero1" postag="v3spia---" head="9" relation="PRED_CO" />
 	</sentence>
-	<sentence id="69" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="sternuntur0:anni0">
+	<sentence id="69" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="sternuntur0:anni0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1261,7 +1261,7 @@
 		<word id="13" form="inritus" lemma="irritus1" postag="a-s---mn-" head="12" relation="ATR" />
 		<word id="14" form="anni" lemma="annus1" postag="n-s---mg-" head="12" relation="ATR" />
 	</sentence>
-	<sentence id="70" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="nec0:undis1">
+	<sentence id="70" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="nec0:undis1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1282,7 +1282,7 @@
 		<word id="15" form="auxiliaribus" lemma="auxiliaris1" postag="a-p---fb-" head="16" relation="ATR" />
 		<word id="16" form="undis" lemma="unda1" postag="n-p---fb-" head="14" relation="ADV" />
 	</sentence>
-	<sentence id="71" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="convocat0:amnes0">
+	<sentence id="71" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="convocat0:amnes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1290,7 +1290,7 @@
 		<word id="2" form="hic" lemma="hic1" postag="p-s---mn-" head="1" relation="SBJ" />
 		<word id="3" form="amnes" lemma="amnis1" postag="n-p---ma-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="72" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="qui0:utendum0">
+	<sentence id="72" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="qui0:utendum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1312,7 +1312,7 @@
 		<word id="16" form="&quot;" lemma="QUOTE1" postag="u--------" head="17" relation="AuxG" />
 		<word id="17" form="utendum" lemma="utor1" postag="t-spgpnn-" head="15" relation="OBJ" />
 	</sentence>
-	<sentence id="73" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="vires0:vestras0">
+	<sentence id="73" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="vires0:vestras0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1320,7 +1320,7 @@
 		<word id="2" form="effundite" lemma="effundo1" postag="v2ppma---" head="0" relation="PRED" />
 		<word id="3" form="vestras" lemma="vester1" postag="a-p---fa-" head="1" relation="ATR" />
 	</sentence>
-	<sentence id="74" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="sic0:est2">
+	<sentence id="74" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="sic0:est2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1328,7 +1328,7 @@
 		<word id="2" form="opus" lemma="opus1" postag="n-s---nn-" head="3" relation="SBJ" />
 		<word id="3" form="est" lemma="sum1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="75" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="aperite0:habenas0">
+	<sentence id="75" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="aperite0:habenas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1343,13 +1343,13 @@
 		<word id="9" form="inmittite" lemma="immito" postag="v2ppma---" head="3" relation="PRED_CO" />
 		<word id="10" form="habenas" lemma="habena1" postag="n-p---fa-" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="76" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="iusserat0:iusserat0">
+	<sentence id="76" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="iusserat0:iusserat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="Iusserat" lemma="jubeo1" postag="v3slia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="77" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="hi0:cursu0">
+	<sentence id="77" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="hi0:cursu0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1366,7 +1366,7 @@
 		<word id="11" form="aequora" lemma="aequor1" postag="n-p---na-" head="10" relation="ADV" />
 		<word id="12" form="cursu" lemma="cursus1" postag="n-s---mb-" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="78" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="ipse0:percussit0">
+	<sentence id="78" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="ipse0:percussit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1376,7 +1376,7 @@
 		<word id="4" form="terram" lemma="terra1" postag="n-s---fa-" head="5" relation="OBJ" />
 		<word id="5" form="percussit" lemma="percutio1" postag="v3sria---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="79" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="at0:aquarum0">
+	<sentence id="79" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="at0:aquarum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1389,7 +1389,7 @@
 		<word id="7" form="patefecit" lemma="patefacio1" postag="v3sria---" head="4" relation="PRED_CO" />
 		<word id="8" form="aquarum" lemma="aqua1" postag="n-p---fg-" head="6" relation="ATR" />
 	</sentence>
-	<sentence id="80" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="exspatiata0:sacris0">
+	<sentence id="80" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="exspatiata0:sacris0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1415,7 +1415,7 @@
 		<word id="20" form="penetralia" lemma="penetralis1" postag="a-p---na-" head="15" relation="OBJ_CO" />
 		<word id="21" form="sacris" lemma="sacrum1" postag="n-p---nb-" head="17" relation="ADV" />
 	</sentence>
-	<sentence id="81" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="iamque1:habebant0">
+	<sentence id="81" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="iamque1:habebant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1427,7 +1427,7 @@
 		<word id="6" form="discrimen" lemma="discrimen1" postag="n-s---na-" head="7" relation="OBJ" />
 		<word id="7" form="habebant" lemma="habeo1" postag="v3piia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="82" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="omnia0:erant0">
+	<sentence id="82" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="omnia0:erant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1435,7 +1435,7 @@
 		<word id="2" form="pontus" lemma="pontus1" postag="n-s---mn-" head="3" relation="PNOM" />
 		<word id="3" form="erant" lemma="sum1" postag="v3piia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="83" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="deerant0:ponto0">
+	<sentence id="83" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="deerant0:ponto0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1444,7 +1444,7 @@
 		<word id="3" form="litora" lemma="litus3" postag="n-p---nn-" head="1" relation="SBJ" />
 		<word id="4" form="ponto" lemma="pontus1" postag="n-s---md-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="84" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="occupat0:ulmo0">
+	<sentence id="84" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="occupat0:ulmo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1481,7 +1481,7 @@
 		<word id="31" form="in" lemma="in1" postag="r--------" head="30" relation="AuxP" />
 		<word id="32" form="ulmo" lemma="ulmus1" postag="n-s---fb-" head="31" relation="ADV" />
 	</sentence>
-	<sentence id="85" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="figitur0:carinae0">
+	<sentence id="85" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="figitur0:carinae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1503,7 +1503,7 @@
 		<word id="16" form="vineta" lemma="vinetum1" postag="n-p---na-" head="14" relation="OBJ" />
 		<word id="17" form="carinae" lemma="carina1" postag="n-p---fn-" head="14" relation="SBJ" />
 	</sentence>
-	<sentence id="86" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="et7:phocae0">
+	<sentence id="86" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="et7:phocae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1524,7 +1524,7 @@
 		<word id="15" form="corpora" lemma="corpus1" postag="n-p---na-" head="13" relation="OBJ" />
 		<word id="16" form="phocae" lemma="phoca1" postag="n-p---fn-" head="13" relation="SBJ" />
 	</sentence>
-	<sentence id="87" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="mirantur0:pulsant0">
+	<sentence id="87" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="mirantur0:pulsant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1551,7 +1551,7 @@
 		<word id="21" form="robora" lemma="robur1" postag="n-p---na-" head="22" relation="OBJ" />
 		<word id="22" form="pulsant" lemma="pulso1" postag="v3ppia---" head="19" relation="PRED_CO" />
 	</sentence>
-	<sentence id="88" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="nat0:cervo0">
+	<sentence id="88" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="nat0:cervo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1583,7 +1583,7 @@
 		<word id="26" form="velocia" lemma="velocius1" postag="a-p---nnc" head="21" relation="ATR" />
 		<word id="27" form="cervo" lemma="cervus1" postag="n-s---md-" head="25" relation="OBJ" />
 	</sentence>
-	<sentence id="89" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="quaesitisque0:alis1">
+	<sentence id="89" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="quaesitisque0:alis1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1604,7 +1604,7 @@
 		<word id="15" form="decidit" lemma="decido1" postag="v3spia---" head="1" relation="PRED_CO" />
 		<word id="16" form="alis" lemma="ala1" postag="n-p---fb-" head="12" relation="SBJ" />
 	</sentence>
-	<sentence id="90" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="obruerat0:fluctus0">
+	<sentence id="90" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="obruerat0:fluctus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1621,7 +1621,7 @@
 		<word id="11" form="cacumina" lemma="cacumen1" postag="n-p---na-" head="8" relation="OBJ" />
 		<word id="12" form="fluctus" lemma="fluctus1" postag="n-p---mn-" head="8" relation="SBJ" />
 	</sentence>
-	<sentence id="91" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="maxima0:rapitur0">
+	<sentence id="91" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="maxima0:rapitur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1630,7 +1630,7 @@
 		<word id="3" form="unda" lemma="unda1" postag="n-s---fb-" head="4" relation="OBJ" />
 		<word id="4" form="rapitur" lemma="rapio1" postag="v3spip---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="92" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="quibus0:victu0">
+	<sentence id="92" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="quibus0:victu0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1645,7 +1645,7 @@
 		<word id="9" form="ieiunia" lemma="jejunium1" postag="n-p---nn-" head="7" relation="SBJ" />
 		<word id="10" form="victu" lemma="victus2" postag="n-s---mb-" head="9" relation="ADV" />
 	</sentence>
-	<sentence id="93" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="separat0:aquarum1">
+	<sentence id="93" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="separat0:aquarum1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1675,7 +1675,7 @@
 		<word id="24" form="campus" lemma="campus2" postag="n-s---mn-" head="21" relation="PNOM_CO" />
 		<word id="25" form="aquarum" lemma="aqua1" postag="n-p---fg-" head="24" relation="ATR" />
 	</sentence>
-	<sentence id="94" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="mons0:nubes1">
+	<sentence id="94" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="mons0:nubes1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1695,7 +1695,7 @@
 		<word id="14" form="cacumina" lemma="cacumen1" postag="n-p---nn-" head="13" relation="SBJ" />
 		<word id="15" form="nubes" lemma="nubes1" postag="n-p---fa-" head="13" relation="OBJ" />
 	</sentence>
-	<sentence id="95" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="hic3:tenebat0">
+	<sentence id="95" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="hic3:tenebat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1731,7 +1731,7 @@
 		<word id="30" form="oracla" lemma="oraculum" postag="n-p---na-" head="31" relation="OBJ" />
 		<word id="31" form="tenebat" lemma="teneo1" postag="v3siia---" head="26" relation="ATR" />
 	</sentence>
-	<sentence id="96" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="non1:deorum0">
+	<sentence id="96" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="non1:deorum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1751,7 +1751,7 @@
 		<word id="14" form="ulla" lemma="ullus1" postag="a-s---fn-" head="11" relation="SBJ_ExD0_PRED_CO" />
 		<word id="15" form="deorum" lemma="deus1" postag="n-p---mg-" head="13" relation="ATR" />
 	</sentence>
-	<sentence id="97" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="iuppiter0:terris1">
+	<sentence id="97" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="iuppiter0:terris1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1800,7 +1800,7 @@
 		<word id="43" form="aethera" lemma="aether1" postag="n-s---ma-" head="42" relation="OBJ_ExD1_PRED_CO" />
 		<word id="44" form="terris" lemma="terra1" postag="n-p---fb-" head="42" relation="ADV_ExD1_PRED_CO" />
 	</sentence>
-	<sentence id="98" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="nec4:dato0">
+	<sentence id="98" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="nec4:dato0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1844,7 +1844,7 @@
 		<word id="38" form="revocare" lemma="revoco1" postag="v--pna---" head="32" relation="OBJ_CO" />
 		<word id="39" form="dato" lemma="do1" postag="t-srppnb-" head="38" relation="ADV" />
 	</sentence>
-	<sentence id="99" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="cava0:phoebo0">
+	<sentence id="99" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="cava0:phoebo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1880,7 +1880,7 @@
 		<word id="30" form="iacentia" lemma="jaceo1" postag="t-pppana-" head="25" relation="ATR" />
 		<word id="31" form="Phoebo" lemma="Phoebus1" postag="n-s---mb-" head="28" relation="ADV" />
 	</sentence>
-	<sentence id="100" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="tunc1:omnes0">
+	<sentence id="100" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="tunc1:omnes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1917,7 +1917,7 @@
 		<word id="31" form="coercuit" lemma="coerceo1" postag="v3sria---" head="30" relation="PRED_CO" />
 		<word id="32" form="omnes" lemma="omnis1" postag="a-p---ma-" head="30" relation="SBJ" />
 	</sentence>
-	<sentence id="101" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=253" span="iam1:relictum0">
+	<sentence id="101" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.253" span="iam1:relictum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1961,7 +1961,7 @@
 		<word id="38" form="fronde" lemma="frons1" postag="n-s---fb-" head="37" relation="ADV" />
 		<word id="39" form="relictum" lemma="relinquo1" postag="t-srppma-" head="35" relation="ATR" />
 	</sentence>
-	<sentence id="102" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="redditus0:erat0">
+	<sentence id="102" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="redditus0:erat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1969,7 +1969,7 @@
 		<word id="2" form="orbis" lemma="orbis1" postag="n-s---mn-" head="1" relation="SBJ" />
 		<word id="3" form="erat" lemma="sum1" postag="v3siia---" head="1" relation="AuxV" />
 	</sentence>
-	<sentence id="103" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quem0:obortis0">
+	<sentence id="103" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quem0:obortis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -1991,7 +1991,7 @@
 		<word id="16" form="adfatur" lemma="affor1" postag="v3spip---" head="0" relation="PRED" />
 		<word id="17" form="obortis" lemma="oborior1" postag="t-prppfb-" head="16" relation="ADV" />
 	</sentence>
-	<sentence id="104" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="o0:sumus0">
+	<sentence id="104" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="o0:sumus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2036,7 +2036,7 @@
 		<word id="39" form="turba" lemma="turba1" postag="n-s---fb-" head="40" relation="ADV" />
 		<word id="40" form="sumus" lemma="sum1" postag="v1ppia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="105" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="possedit0:pontus0">
+	<sentence id="105" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="possedit0:pontus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2044,7 +2044,7 @@
 		<word id="2" form="cetera" lemma="ceterum1" postag="n-p---na-" head="1" relation="OBJ" />
 		<word id="3" form="pontus" lemma="pontus1" postag="n-s---mn-" head="1" relation="SBJ" />
 	</sentence>
-	<sentence id="106" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="haec0:satis0">
+	<sentence id="106" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="haec0:satis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2059,7 +2059,7 @@
 		<word id="9" form="certa" lemma="certus1" postag="a-s---fn-" head="6" relation="PNOM" />
 		<word id="10" form="satis" lemma="satis1" postag="d--------" head="9" relation="ADV" />
 	</sentence>
-	<sentence id="107" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="terrent0:mentem0">
+	<sentence id="107" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="terrent0:mentem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2069,7 +2069,7 @@
 		<word id="4" form="nubila" lemma="nubila1" postag="n-p---nn-" head="1" relation="SBJ" />
 		<word id="5" form="mentem" lemma="mens1" postag="n-s---fa-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="108" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quis0:foret0">
+	<sentence id="108" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quis0:foret0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2090,7 +2090,7 @@
 		<word id="15" form="," lemma="comma1" postag="u--------" head="16" relation="AuxX" />
 		<word id="16" form="foret" lemma="foro1" postag="v3spsa---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="109" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quo0:posses0">
+	<sentence id="109" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quo0:posses0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2101,7 +2101,7 @@
 		<word id="5" form="modo" lemma="modus1" postag="n-s---mb-" head="6" relation="ADV" />
 		<word id="6" form="posses" lemma="possum1" postag="v2sisa---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="110" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quo1:doleres0">
+	<sentence id="110" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quo1:doleres0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2109,7 +2109,7 @@
 		<word id="2" form="consolante" lemma="consolor1" postag="t-sppamb-" head="3" relation="ADV" />
 		<word id="3" form="doleres" lemma="doleo1" postag="v2sisa---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="111" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="namque0:haberet1">
+	<sentence id="111" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="namque0:haberet1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2137,7 +2137,7 @@
 		<word id="22" form="pontus" lemma="pontus1" postag="n-s---mn-" head="23" relation="SBJ" />
 		<word id="23" form="haberet" lemma="habeo1" postag="v3sisa---" head="19" relation="PRED_CO" />
 	</sentence>
-	<sentence id="112" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="o3:terrae0">
+	<sentence id="112" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="o3:terrae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2154,7 +2154,7 @@
 		<word id="11" form="infundere" lemma="infundo1" postag="v--pna---" head="8" relation="OBJ_CO" />
 		<word id="12" form="terrae" lemma="terra1" postag="n-s---fd-" head="11" relation="OBJ" />
 	</sentence>
-	<sentence id="113" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="nunc3:manemus0">
+	<sentence id="113" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="nunc3:manemus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2175,7 +2175,7 @@
 		<word id="15" form="exempla" lemma="exemplum1" postag="n-p---nn-" head="16" relation="PNOM" />
 		<word id="16" form="manemus" lemma="maneo1" postag="v1ppia---" head="13" relation="PRED_CO" />
 	</sentence>
-	<sentence id="114" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="dixerat0:flebant0">
+	<sentence id="114" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="dixerat0:flebant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2184,7 +2184,7 @@
 		<word id="3" form="et" lemma="et1" postag="c--------" head="0" relation="COORD" />
 		<word id="4" form="flebant" lemma="fleo1" postag="v3piia---" head="3" relation="PRED_CO" />
 	</sentence>
-	<sentence id="115" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="placuit0:sortes0">
+	<sentence id="115" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="placuit0:sortes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2199,7 +2199,7 @@
 		<word id="9" form="quaerere" lemma="quaero1" postag="v--pna---" head="5" relation="SBJ_CO" />
 		<word id="10" form="sortes" lemma="sors1" postag="n-p---fa-" head="7" relation="ADV" />
 	</sentence>
-	<sentence id="116" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="nulla0:est1">
+	<sentence id="116" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="nulla0:est1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2207,7 +2207,7 @@
 		<word id="2" form="mora" lemma="mora1" postag="n-s---fn-" head="3" relation="SBJ" />
 		<word id="3" form="est" lemma="sum1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="117" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="adeunt0:secantes0">
+	<sentence id="117" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="adeunt0:secantes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2226,7 +2226,7 @@
 		<word id="13" form="nota" lemma="notus1" postag="a-p---na-" head="12" relation="ATR" />
 		<word id="14" form="secantes" lemma="seco1" postag="t-pppafa-" head="9" relation="ATR_CO" />
 	</sentence>
-	<sentence id="118" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="inde0:arae0">
+	<sentence id="118" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="inde0:arae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2257,7 +2257,7 @@
 		<word id="25" form="ignibus" lemma="ignis1" postag="n-p---mb-" head="24" relation="ADV" />
 		<word id="26" form="arae" lemma="ara1" postag="n-p---fn-" head="23" relation="SBJ" />
 	</sentence>
-	<sentence id="119" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="ut1:rebus0">
+	<sentence id="119" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="ut1:rebus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2315,7 +2315,7 @@
 		<word id="52" form="," lemma="comma1" postag="u--------" head="51" relation="AuxX" />
 		<word id="53" form="rebus" lemma="res1" postag="n-p---fd-" head="48" relation="OBJ" />
 	</sentence>
-	<sentence id="120" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="mota0:dedit1">
+	<sentence id="120" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="mota0:dedit1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2326,7 +2326,7 @@
 		<word id="5" form="sortem" lemma="sors1" postag="n-s---fa-" head="6" relation="OBJ" />
 		<word id="6" form="dedit" lemma="do1" postag="v3sria---" head="4" relation="PRED_CO" />
 	</sentence>
-	<sentence id="121" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="discedite0:parentis0">
+	<sentence id="121" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="discedite0:parentis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2347,7 +2347,7 @@
 		<word id="15" form="iactate" lemma="jacto1" postag="v2ppma---" head="10" relation="PRED_CO" />
 		<word id="16" form="parentis" lemma="parens1" postag="n-s---fg-" head="11" relation="ATR" />
 	</sentence>
-	<sentence id="122" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="obstipuere0:umbras0">
+	<sentence id="122" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="obstipuere0:umbras0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2382,7 +2382,7 @@
 		<word id="29" form="ossibus" lemma="os2" postag="n-p---nb-" head="27" relation="SBJ" />
 		<word id="30" form="umbras" lemma="umbra1" postag="n-p---fa-" head="26" relation="OBJ" />
 	</sentence>
-	<sentence id="123" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="interea0:volutant0">
+	<sentence id="123" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="interea0:volutant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2400,7 +2400,7 @@
 		<word id="12" form="se" lemma="sui1" postag="p-p---ma-" head="10" relation="ADV" />
 		<word id="13" form="volutant" lemma="voluto1" postag="v3ppia---" head="11" relation="PRED_CO" />
 	</sentence>
-	<sentence id="124" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="inde1:suadent0">
+	<sentence id="124" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="inde1:suadent0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2430,7 +2430,7 @@
 		<word id="24" form="oracula" lemma="oraculum1" postag="n-p---nn-" head="25" relation="SBJ" />
 		<word id="25" form="suadent" lemma="suadeo1" postag="v3ppia---" head="21" relation="OBJ_CO" />
 	</sentence>
-	<sentence id="125" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="magna0:dici0">
+	<sentence id="125" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="magna0:dici0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2447,7 +2447,7 @@
 		<word id="11" form="reor" lemma="reor1" postag="v1spip---" head="5" relation="PRED_CO" />
 		<word id="12" form="dici" lemma="dico2" postag="v--pnp---" head="11" relation="OBJ" />
 	</sentence>
-	<sentence id="126" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="iacere0:iubemur0">
+	<sentence id="126" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="iacere0:iubemur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2457,7 +2457,7 @@
 		<word id="4" form="terga" lemma="tergum1" postag="n-p---na-" head="3" relation="ADV" />
 		<word id="5" form="iubemur" lemma="jubeo1" postag="v1ppip---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="127" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="coniugis0:est6">
+	<sentence id="127" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="coniugis0:est6">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2474,7 +2474,7 @@
 		<word id="11" form="dubio" lemma="dubius1" postag="a-s---nb-" head="10" relation="PNOM" />
 		<word id="12" form="est" lemma="sum1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="128" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="adeo0:monitis0">
+	<sentence id="128" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="adeo0:monitis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2484,7 +2484,7 @@
 		<word id="4" form="diffidunt" lemma="diffido1" postag="v3ppia---" head="0" relation="PRED" />
 		<word id="5" form="monitis" lemma="monitum1" postag="n-p---nd-" head="4" relation="OBJ" />
 	</sentence>
-	<sentence id="129" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="sed0:nocebit0">
+	<sentence id="129" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="sed0:nocebit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2493,7 +2493,7 @@
 		<word id="3" form="temptare" lemma="tento1" postag="v--pna---" head="4" relation="SBJ" />
 		<word id="4" form="nocebit" lemma="noceo1" postag="v3sfia---" head="1" relation="PRED_CO" />
 	</sentence>
-	<sentence id="130" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="discedunt0:mittunt0">
+	<sentence id="130" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="discedunt0:mittunt0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2512,7 +2512,7 @@
 		<word id="13" form="vestigia" lemma="vestigium1" postag="n-p---na-" head="12" relation="OBJ" />
 		<word id="14" form="mittunt" lemma="mitto1" postag="v3ppia---" head="8" relation="PRED_CO" />
 	</sentence>
-	<sentence id="131" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="saxa0:vetustas0">
+	<sentence id="131" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="saxa0:vetustas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2528,7 +2528,7 @@
 		<word id="10" form="teste" lemma="testis1" postag="n-s---mb-" head="9" relation="ADV" />
 		<word id="11" form="vetustas" lemma="vetustas1" postag="n-s---fn-" head="8" relation="SBJ" />
 	</sentence>
-	<sentence id="132" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span=")2:formam0">
+	<sentence id="132" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span=")2:formam0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2547,7 +2547,7 @@
 		<word id="13" form="ducere" lemma="duco1" postag="v--pna---" head="11" relation="OBJ_CO" />
 		<word id="14" form="formam" lemma="forma1" postag="n-s---fa-" head="13" relation="OBJ" />
 	</sentence>
-	<sentence id="133" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="mox0:signis0">
+	<sentence id="133" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="mox0:signis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2587,7 +2587,7 @@
 		<word id="34" form="simillima" lemma="similis1" postag="a-s---fn-" head="32" relation="PNOM_CO" />
 		<word id="35" form="signis" lemma="signum1" postag="n-p---nd-" head="34" relation="OBJ" />
 	</sentence>
-	<sentence id="134" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quae0:usum0">
+	<sentence id="134" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quae0:usum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2609,7 +2609,7 @@
 		<word id="16" form="corporis" lemma="corpus1" postag="n-s---ng-" head="17" relation="ATR" />
 		<word id="17" form="usum" lemma="usus2" postag="n-s---ma-" head="13" relation="OBJ" />
 	</sentence>
-	<sentence id="135" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quod0:ossa1">
+	<sentence id="135" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quod0:ossa1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2624,7 +2624,7 @@
 		<word id="9" form="in" lemma="in1" postag="r--------" head="8" relation="AuxP" />
 		<word id="10" form="ossa" lemma="ossum1" postag="n-p---na-" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="136" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="quae1:mansit0">
+	<sentence id="136" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="quae1:mansit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2638,7 +2638,7 @@
 		<word id="8" form="nomine" lemma="nomen1" postag="n-s---nb-" head="6" relation="ADV" />
 		<word id="9" form="mansit" lemma="maneo1" postag="v3sria---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="137" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="inque0:iactu0">
+	<sentence id="137" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="inque0:iactu0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2663,7 +2663,7 @@
 		<word id="19" form="femina" lemma="femina1" postag="n-s---fn-" head="17" relation="SBJ" />
 		<word id="20" form="iactu" lemma="jactus2" postag="n-s---mb-" head="15" relation="ADV" />
 	</sentence>
-	<sentence id="138" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=348" span="inde2:nati0">
+	<sentence id="138" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.348" span="inde2:nati0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2682,7 +2682,7 @@
 		<word id="13" form="origine" lemma="origo1" postag="n-s---fb-" head="14" relation="ADV" />
 		<word id="14" form="nati" lemma="natus1" postag="n-p---mn-" head="10" relation="ATR" />
 	</sentence>
-	<sentence id="139" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="cetera0:morando0">
+	<sentence id="139" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="cetera0:morando0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2729,7 +2729,7 @@
 		<word id="41" form="cepere" lemma="capio1" postag="v3pria---" head="38" relation="ADV_CO" />
 		<word id="42" form="morando" lemma="moror1" postag="t-spgpnb-" head="41" relation="ADV" />
 	</sentence>
-	<sentence id="140" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="sic0:numeris0">
+	<sentence id="140" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="sic0:numeris0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2779,7 +2779,7 @@
 		<word id="44" form="vident" lemma="video1" postag="v3ppia---" head="28" relation="PRED_CO" />
 		<word id="45" form="numeris" lemma="numerus1" postag="n-p---mb-" head="43" relation="OBJ" />
 	</sentence>
-	<sentence id="141" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="et2:tellus1">
+	<sentence id="141" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="et2:tellus1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2798,7 +2798,7 @@
 		<word id="13" form="altera" lemma="alter1" postag="a-s---fn-" head="12" relation="ATR" />
 		<word id="14" form="tellus" lemma="tellus1" postag="n-s---fn-" head="11" relation="PNOM" />
 	</sentence>
-	<sentence id="142" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="quippe0:duobus0">
+	<sentence id="142" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="quippe0:duobus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2820,7 +2820,7 @@
 		<word id="16" form="cuncta" lemma="cunctus1" postag="a-p---nn-" head="15" relation="SBJ" />
 		<word id="17" form="duobus" lemma="duo1" postag="a-p---mb-" head="14" relation="ATR" />
 	</sentence>
-	<sentence id="143" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="cumque0:est1">
+	<sentence id="143" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="cumque0:est1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2843,7 +2843,7 @@
 		<word id="17" form="apta" lemma="aptus1" postag="a-s---fn-" head="18" relation="PNOM" />
 		<word id="18" form="est" lemma="sum1" postag="v3spia---" head="13" relation="PRED_CO" />
 	</sentence>
-	<sentence id="144" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="ergo0:creavit0">
+	<sentence id="144" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="ergo0:creavit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2875,7 +2875,7 @@
 		<word id="26" form="monstra" lemma="monstrum1" postag="n-p---na-" head="27" relation="OBJ" />
 		<word id="27" form="creavit" lemma="creo1" postag="v3sria---" head="23" relation="PRED_CO" />
 	</sentence>
-	<sentence id="145" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="illa0:eras0">
+	<sentence id="145" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="illa0:eras0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2903,7 +2903,7 @@
 		<word id="22" form="terror" lemma="terror1" postag="n-s---mn-" head="23" relation="PNOM" />
 		<word id="23" form="eras" lemma="sum1" postag="v2siia---" head="15" relation="PRED_CO" />
 	</sentence>
-	<sentence id="146" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="tantum0:tenebas0">
+	<sentence id="146" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="tantum0:tenebas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2913,7 +2913,7 @@
 		<word id="4" form="monte" lemma="mons1" postag="n-s---mb-" head="3" relation="ADV" />
 		<word id="5" form="tenebas" lemma="teneo1" postag="v2siia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="147" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="hunc0:veneno0">
+	<sentence id="147" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="hunc0:veneno0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2947,7 +2947,7 @@
 		<word id="28" form="nigra" lemma="niger1" postag="a-p---na-" head="27" relation="ATR" />
 		<word id="29" form="veneno" lemma="venenum1" postag="n-s---nb-" head="25" relation="SBJ" />
 	</sentence>
-	<sentence id="148" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="neve0:dictos0">
+	<sentence id="148" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="neve0:dictos0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2970,7 +2970,7 @@
 		<word id="17" form="nomine" lemma="nomen1" postag="n-s---nb-" head="12" relation="ATR" />
 		<word id="18" form="dictos" lemma="dico2" postag="t-prppma-" head="12" relation="ATR" />
 	</sentence>
-	<sentence id="149" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="hic0:honorem0">
+	<sentence id="149" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="hic0:honorem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -2989,7 +2989,7 @@
 		<word id="13" form="frondis" lemma="frons1" postag="n-s---fg-" head="14" relation="ATR" />
 		<word id="14" form="honorem" lemma="honor1" postag="n-s---ma-" head="12" relation="OBJ" />
 	</sentence>
-	<sentence id="150" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=416" span="nondum0:phoebus0">
+	<sentence id="150" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.416" span="nondum0:phoebus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3008,7 +3008,7 @@
 		<word id="13" form="arbore" lemma="arbor1" postag="n-s---mb-" head="11" relation="ADV" />
 		<word id="14" form="Phoebus" lemma="Phoebus1" postag="n-s---mn-" head="10" relation="SBJ" />
 	</sentence>
-	<sentence id="151" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="primus0:ira0">
+	<sentence id="151" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="primus0:ira0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3029,7 +3029,7 @@
 		<word id="15" form="Cupidinis" lemma="cupido1" postag="n-s---mg-" head="16" relation="ATR" />
 		<word id="16" form="ira" lemma="ira1" postag="n-s---fn-" head="13" relation="SBJ_CO" />
 	</sentence>
-	<sentence id="152" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="delius0:armis0">
+	<sentence id="152" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="delius0:armis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3060,7 +3060,7 @@
 		<word id="25" form="fortibus" lemma="fortis1" postag="a-p---nb-" head="26" relation="ATR" />
 		<word id="26" form="armis" lemma="arma1" postag="n-p---nb-" head="24" relation="ADV" />
 	</sentence>
-	<sentence id="153" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="dixerat0:sagittis0">
+	<sentence id="153" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="dixerat0:sagittis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3096,7 +3096,7 @@
 		<word id="30" form="Pythona" lemma="Python" postag="n-s---ma-" head="27" relation="OBJ" />
 		<word id="31" form="sagittis" lemma="sagitta1" postag="n-p---fb-" head="27" relation="ADV" />
 	</sentence>
-	<sentence id="154" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="tu0:nostras0">
+	<sentence id="154" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="tu0:nostras0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3116,7 +3116,7 @@
 		<word id="14" form="adsere" lemma="assero2" postag="v2spma---" head="11" relation="PRED_CO" />
 		<word id="15" form="nostras" lemma="noster1" postag="a-p---fa-" head="13" relation="ATR" />
 	</sentence>
-	<sentence id="155" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="filius0:arcus0">
+	<sentence id="155" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="filius0:arcus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3134,7 +3134,7 @@
 		<word id="12" form="meus" lemma="meus1" postag="a-s---mn-" head="13" relation="ATR" />
 		<word id="13" form="arcus" lemma="arcus1" postag="n-s---mn-" head="10" relation="SBJ_ExD2_OBJ_CO" />
 	</sentence>
-	<sentence id="156" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="ait0:nostra0">
+	<sentence id="156" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="ait0:nostra0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3153,7 +3153,7 @@
 		<word id="13" form="gloria" lemma="gloria1" postag="n-s---fn-" head="11" relation="SBJ" />
 		<word id="14" form="nostra" lemma="noster1" postag="a-s---fb-" head="10" relation="ATR_ExD0_ADV" />
 	</sentence>
-	<sentence id="157" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="dixit0:operum0">
+	<sentence id="157" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="dixit0:operum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3177,7 +3177,7 @@
 		<word id="18" form="diversorum" lemma="diverto1" postag="t-prppng-" head="19" relation="ATR" />
 		<word id="19" form="operum" lemma="opus1" postag="n-p---ng-" head="16" relation="ATR" />
 	</sentence>
-	<sentence id="158" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="fugat0:amorem0">
+	<sentence id="158" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="fugat0:amorem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3188,7 +3188,7 @@
 		<word id="5" form="illud" lemma="ille1" postag="p-s---nn-" head="4" relation="SBJ" />
 		<word id="6" form="amorem" lemma="amor1" postag="n-s---ma-" head="4" relation="OBJ" />
 	</sentence>
-	<sentence id="159" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="quod0:acuta0">
+	<sentence id="159" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="quod0:acuta0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3202,7 +3202,7 @@
 		<word id="8" form="fulget" lemma="fulgeo1" postag="v3spia---" head="6" relation="PRED_CO" />
 		<word id="9" form="acuta" lemma="acutus1" postag="a-s---fb-" head="7" relation="ATR" />
 	</sentence>
-	<sentence id="160" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="quod1:plumbum0">
+	<sentence id="160" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="quod1:plumbum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3217,7 +3217,7 @@
 		<word id="9" form="harundine" lemma="harundo1" postag="n-s---fb-" head="8" relation="ADV" />
 		<word id="10" form="plumbum" lemma="plumbum1" postag="n-s---na-" head="7" relation="OBJ" />
 	</sentence>
-	<sentence id="161" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="hoc1:medullas0">
+	<sentence id="161" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="hoc1:medullas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3237,7 +3237,7 @@
 		<word id="14" form="ossa" lemma="ossum1" postag="n-p---na-" head="13" relation="ADV" />
 		<word id="15" form="medullas" lemma="medulla1" postag="n-p---fa-" head="10" relation="OBJ" />
 	</sentence>
-	<sentence id="162" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="protinus0:phoebes0">
+	<sentence id="162" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="protinus0:phoebes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3261,7 +3261,7 @@
 		<word id="18" form="aemula" lemma="aemulus1" postag="a-s---fn-" head="16" relation="ATR_CO" />
 		<word id="19" form="Phoebes" lemma="Phoebe1" postag="n-s---fg-" head="18" relation="OBJ" />
 	</sentence>
-	<sentence id="163" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="vitta0:capillos0">
+	<sentence id="163" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="vitta0:capillos0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3272,7 +3272,7 @@
 		<word id="5" form="lege" lemma="lex1" postag="n-s---fb-" head="4" relation="ADV" />
 		<word id="6" form="capillos" lemma="capillus1" postag="n-p---ma-" head="2" relation="OBJ" />
 	</sentence>
-	<sentence id="164" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="multi0:curat0">
+	<sentence id="164" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="multi0:curat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3304,7 +3304,7 @@
 		<word id="26" form="conubia" lemma="conubium1" postag="n-p---nn-" head="25" relation="SBJ" />
 		<word id="27" form="curat" lemma="curo1" postag="v3spia---" head="16" relation="PRED_CO" />
 	</sentence>
-	<sentence id="165" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="saepe0:nepotes0">
+	<sentence id="165" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="saepe0:nepotes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3330,7 +3330,7 @@
 		<word id="20" form="," lemma="comma1" postag="u--------" head="19" relation="AuxX" />
 		<word id="21" form="nepotes" lemma="nepos1" postag="n-p---ma-" head="17" relation="OBJ" />
 	</sentence>
-	<sentence id="166" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="illa1:frui0">
+	<sentence id="166" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="illa1:frui0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3368,7 +3368,7 @@
 		<word id="32" form="virginitate" lemma="virginitas1" postag="n-s---fb-" head="33" relation="OBJ" />
 		<word id="33" form="frui" lemma="fruor1" postag="v--pnp---" head="22" relation="OBJ" />
 	</sentence>
-	<sentence id="167" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="dedit1:dianae0">
+	<sentence id="167" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="dedit1:dianae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3378,7 +3378,7 @@
 		<word id="4" form="ante" lemma="ante1" postag="d--------" head="1" relation="ADV" />
 		<word id="5" form="Dianae" lemma="Diana1" postag="n-s---fd-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="168" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="ille0:vetat0">
+	<sentence id="168" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="ille0:vetat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3395,7 +3395,7 @@
 		<word id="11" form="esse" lemma="sum1" postag="v--pna---" head="10" relation="OBJ" />
 		<word id="12" form="vetat" lemma="veto1" postag="v3spia---" head="5" relation="PRED_CO" />
 	</sentence>
-	<sentence id="169" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="votoque0:repugnat0">
+	<sentence id="169" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="votoque0:repugnat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3406,7 +3406,7 @@
 		<word id="5" form="forma" lemma="forma1" postag="n-s---fn-" head="6" relation="SBJ" />
 		<word id="6" form="repugnat" lemma="repugno1" postag="v3spia---" head="1" relation="PRED_CO" />
 	</sentence>
-	<sentence id="170" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="phoebus0:fallunt0">
+	<sentence id="170" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="phoebus0:fallunt0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3429,7 +3429,7 @@
 		<word id="17" form="oracula" lemma="oraculum1" postag="n-p---nn-" head="18" relation="SBJ" />
 		<word id="18" form="fallunt" lemma="fallo1" postag="v3ppia---" head="14" relation="PRED_CO" />
 	</sentence>
-	<sentence id="171" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="utque0:amorem1">
+	<sentence id="171" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="utque0:amorem1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3474,7 +3474,7 @@
 		<word id="39" form="nutrit" lemma="nutrio1" postag="v3spia---" head="36" relation="PRED_CO" />
 		<word id="40" form="amorem" lemma="amor1" postag="n-s---ma-" head="39" relation="OBJ" />
 	</sentence>
-	<sentence id="172" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="spectat0:comantur0">
+	<sentence id="172" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="spectat0:comantur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3490,13 +3490,13 @@
 		<word id="10" form="si" lemma="si1" postag="c--------" head="6" relation="AuxC_ExD1_OBJ_ExD0_PRED_CO" />
 		<word id="11" form="comantur" lemma="como1" postag="v3ppsp---" head="10" relation="ADV" />
 	</sentence>
-	<sentence id="173" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="ait1:ait1">
+	<sentence id="173" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="ait1:ait1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="ait" lemma="aio1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="174" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="videt0:satis0">
+	<sentence id="174" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="videt0:satis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3516,7 +3516,7 @@
 		<word id="14" form="vidisse" lemma="video1" postag="v--rna---" head="13" relation="SBJ" />
 		<word id="15" form="satis" lemma="satis1" postag="d--------" head="13" relation="PNOM" />
 	</sentence>
-	<sentence id="175" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="laudat0:lacertos0">
+	<sentence id="175" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="laudat0:lacertos0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3534,7 +3534,7 @@
 		<word id="12" form="parte" lemma="pars1" postag="n-s---fb-" head="11" relation="ADV" />
 		<word id="13" form="lacertos" lemma="lacertus1" postag="n-p---ma-" head="8" relation="OBJ_CO" />
 	</sentence>
-	<sentence id="176" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="siqua0:putat0">
+	<sentence id="176" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="siqua0:putat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3544,7 +3544,7 @@
 		<word id="4" form="meliora" lemma="bonus1" postag="a-p---nac" head="5" relation="PNOM_ExD0_OBJ" />
 		<word id="5" form="putat" lemma="puto1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="177" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="fugit1:resistit0">
+	<sentence id="177" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="fugit1:resistit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3561,7 +3561,7 @@
 		<word id="11" form="verba" lemma="verbum1" postag="n-p---na-" head="8" relation="OBJ" />
 		<word id="12" form="resistit" lemma="resisto1" postag="v3spia---" head="6" relation="PRED_CO" />
 	</sentence>
-	<sentence id="178" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="nympha1:mane0">
+	<sentence id="178" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="nympha1:mane0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3573,7 +3573,7 @@
 		<word id="6" form="," lemma="comma1" postag="u--------" head="0" relation="COORD" />
 		<word id="7" form="mane" lemma="maneo1" postag="v2spma---" head="6" relation="PRED_CO" />
 	</sentence>
-	<sentence id="179" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="non2:hostis0">
+	<sentence id="179" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="non2:hostis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3581,7 +3581,7 @@
 		<word id="2" form="insequor" lemma="insequor1" postag="v1spip---" head="0" relation="PRED" />
 		<word id="3" form="hostis" lemma="hostis1" postag="n-s---mn-" head="2" relation="AtvV" />
 	</sentence>
-	<sentence id="180" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="nympha2:mane1">
+	<sentence id="180" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="nympha2:mane1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3589,7 +3589,7 @@
 		<word id="2" form="," lemma="comma1" postag="u--------" head="3" relation="AuxX" />
 		<word id="3" form="mane" lemma="maneo1" postag="v2spma---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="181" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="sic2:suos0">
+	<sentence id="181" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="sic2:suos0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3612,7 +3612,7 @@
 		<word id="17" form="quaeque" lemma="quisque1" postag="p-p---nn-" head="15" relation="SBJ_ExD2_PRED_CO" />
 		<word id="18" form="suos" lemma="suus1" postag="a-p---ma-" head="16" relation="ATR" />
 	</sentence>
-	<sentence id="182" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="amor2:sequendi0">
+	<sentence id="182" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="amor2:sequendi0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3622,14 +3622,14 @@
 		<word id="4" form="causa" lemma="causa1" postag="n-s---fn-" head="2" relation="PNOM" />
 		<word id="5" form="sequendi" lemma="sequor1" postag="t-spgpng-" head="4" relation="ATR" />
 	</sentence>
-	<sentence id="183" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="me0:miserum0">
+	<sentence id="183" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="me0:miserum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="Me" lemma="ego1" postag="p-s---ma-" head="0" relation="ExD_ExD0_PRED" />
 		<word id="2" form="miserum" lemma="miser1" postag="a-s---ma-" head="1" relation="ATR" />
 	</sentence>
-	<sentence id="184" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="ne0:doloris0">
+	<sentence id="184" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="ne0:doloris0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3648,7 +3648,7 @@
 		<word id="13" form="causa" lemma="causa1" postag="n-s---fn-" head="11" relation="PNOM" />
 		<word id="14" form="doloris" lemma="dolor1" postag="n-s---mg-" head="13" relation="ATR" />
 	</sentence>
-	<sentence id="185" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="aspera0:sunt0">
+	<sentence id="185" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="aspera0:sunt0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3660,7 +3660,7 @@
 		<word id="6" form="loca" lemma="locum1" postag="n-p---nn-" head="7" relation="SBJ" />
 		<word id="7" form="sunt" lemma="sum1" postag="v3ppia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="186" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="moderatius0:inhibe0">
+	<sentence id="186" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="moderatius0:inhibe0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3673,7 +3673,7 @@
 		<word id="7" form="fugam" lemma="fuga1" postag="n-s---fa-" head="8" relation="OBJ" />
 		<word id="8" form="inhibe" lemma="inhibeo1" postag="v2spma---" head="6" relation="PRED_CO" />
 	</sentence>
-	<sentence id="187" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="moderatius1:ipse0">
+	<sentence id="187" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="moderatius1:ipse0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3681,7 +3681,7 @@
 		<word id="2" form="insequar" lemma="insequor1" postag="v1sfip---" head="0" relation="PRED" />
 		<word id="3" form="ipse" lemma="ipse1" postag="p-s---mn-" head="2" relation="SBJ" />
 	</sentence>
-	<sentence id="188" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="cui0:tamen0">
+	<sentence id="188" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="cui0:tamen0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3691,7 +3691,7 @@
 		<word id="4" form="inquire" lemma="inquiro1" postag="v2spma---" head="0" relation="PRED" />
 		<word id="5" form="tamen" lemma="tamen1" postag="d--------" head="4" relation="AuxY" />
 	</sentence>
-	<sentence id="189" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="non3:observo0">
+	<sentence id="189" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="non3:observo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3712,7 +3712,7 @@
 		<word id="15" form="horridus" lemma="horridus1" postag="a-s---mn-" head="16" relation="ADV" />
 		<word id="16" form="observo" lemma="observo1" postag="v1spia---" head="9" relation="PRED_CO" />
 	</sentence>
-	<sentence id="190" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="nescis0:fugis0">
+	<sentence id="190" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="nescis0:fugis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3728,7 +3728,7 @@
 		<word id="10" form="ideo" lemma="ideo1" postag="d--------" head="11" relation="ADV" />
 		<word id="11" form="fugis" lemma="fugio1" postag="v2spia---" head="9" relation="PRED_CO" />
 	</sentence>
-	<sentence id="191" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="mihi4:genitor1">
+	<sentence id="191" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="mihi4:genitor1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3748,7 +3748,7 @@
 		<word id="14" form="est" lemma="sum1" postag="v3spia---" head="12" relation="PRED_CO" />
 		<word id="15" form="genitor" lemma="genitor1" postag="n-s---mn-" head="14" relation="PNOM" />
 	</sentence>
-	<sentence id="192" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="per1:patet0">
+	<sentence id="192" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="per1:patet0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3763,7 +3763,7 @@
 		<word id="9" form="est" lemma="sum1" postag="v3spia---" head="8" relation="SBJ_CO" />
 		<word id="10" form="patet" lemma="pateo1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="193" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="per2:nervis0">
+	<sentence id="193" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="per2:nervis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3773,7 +3773,7 @@
 		<word id="4" form="carmina" lemma="carmen1" postag="n-p---nn-" head="3" relation="SBJ" />
 		<word id="5" form="nervis" lemma="nervus1" postag="n-p---md-" head="3" relation="OBJ" />
 	</sentence>
-	<sentence id="194" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="certa1:fecit0">
+	<sentence id="194" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="certa1:fecit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3795,7 +3795,7 @@
 		<word id="16" form="pectore" lemma="pectus1" postag="n-s---nb-" head="12" relation="PNOM" />
 		<word id="17" form="fecit" lemma="facio1" postag="v3sria---" head="5" relation="PRED_CO" />
 	</sentence>
-	<sentence id="195" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="inventum0:nobis0">
+	<sentence id="195" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="inventum0:nobis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3816,7 +3816,7 @@
 		<word id="15" form="potentia" lemma="potentia1" postag="n-s---fn-" head="14" relation="SBJ" />
 		<word id="16" form="nobis" lemma="nos1" postag="p-p---md-" head="14" relation="OBJ" />
 	</sentence>
-	<sentence id="196" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=452" span="ei0:artes0">
+	<sentence id="196" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.452" span="ei0:artes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3840,7 +3840,7 @@
 		<word id="18" form="," lemma="comma1" postag="u--------" head="16" relation="AuxX" />
 		<word id="19" form="artes" lemma="ars1" postag="n-p---fn-" head="12" relation="SBJ" />
 	</sentence>
-	<sentence id="197" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="plura0:decens0">
+	<sentence id="197" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="plura0:decens0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3861,7 +3861,7 @@
 		<word id="15" form="visa" lemma="video1" postag="t-srppfn-" head="12" relation="PRED_CO" />
 		<word id="16" form="decens" lemma="decet1" postag="t-sppafn-" head="15" relation="PNOM" />
 	</sentence>
-	<sentence id="198" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="nudabant0:est0">
+	<sentence id="198" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="nudabant0:est0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3890,7 +3890,7 @@
 		<word id="23" form="fuga" lemma="fuga1" postag="n-s---fb-" head="21" relation="ADV" />
 		<word id="24" form="est" lemma="sum1" postag="v3spia---" head="21" relation="AuxV" />
 	</sentence>
-	<sentence id="199" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="sed0:passu0">
+	<sentence id="199" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="sed0:passu0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3915,7 +3915,7 @@
 		<word id="19" form="vestigia" lemma="vestigium1" postag="n-p---na-" head="18" relation="OBJ" />
 		<word id="20" form="passu" lemma="passus3" postag="n-s---mb-" head="17" relation="SBJ" />
 	</sentence>
-	<sentence id="200" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="ut0:salutem0">
+	<sentence id="200" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="ut0:salutem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3938,7 +3938,7 @@
 		<word id="17" form="ille" lemma="ille1" postag="p-s---mn-" head="16" relation="SBJ_ExD0_ADV_CO" />
 		<word id="18" form="salutem" lemma="salus1" postag="n-s---fa-" head="16" relation="OBJ_ExD0_ADV_CO" />
 	</sentence>
-	<sentence id="201" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="sic0:timore0">
+	<sentence id="201" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="sic0:timore0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3954,7 +3954,7 @@
 		<word id="10" form="illa" lemma="ille1" postag="p-s---fn-" head="9" relation="SBJ_ExD1_PRED_CO" />
 		<word id="11" form="timore" lemma="timor1" postag="n-s---mb-" head="9" relation="ADV_ExD1_PRED_CO" />
 	</sentence>
-	<sentence id="202" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="qui0:adflat0">
+	<sentence id="202" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="qui0:adflat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -3980,7 +3980,7 @@
 		<word id="20" form="cervicibus" lemma="cervix1" postag="n-p---fb-" head="19" relation="ADV" />
 		<word id="21" form="adflat" lemma="afflo1" postag="v3spia---" head="17" relation="PRED_CO" />
 	</sentence>
-	<sentence id="203" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="viribus0:habetis0">
+	<sentence id="203" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="viribus0:habetis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4008,7 +4008,7 @@
 		<word id="22" form="numen" lemma="numen1" postag="n-s---na-" head="23" relation="OBJ" />
 		<word id="23" form="habetis" lemma="habeo1" postag="v2ppia---" head="20" relation="ADV" />
 	</sentence>
-	<sentence id="204" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="qua0:figuram0">
+	<sentence id="204" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="qua0:figuram0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4020,7 +4020,7 @@
 		<word id="6" form="perde" lemma="perdo1" postag="v2spma---" head="0" relation="PRED" />
 		<word id="7" form="figuram" lemma="figura1" postag="n-s---fa-" head="6" relation="OBJ" />
 	</sentence>
-	<sentence id="205" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="vix0:artus0">
+	<sentence id="205" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="vix0:artus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4032,7 +4032,7 @@
 		<word id="6" form="occupat" lemma="occupo1" postag="v3spia---" head="0" relation="PRED" />
 		<word id="7" form="artus" lemma="artus2" postag="n-p---ma-" head="6" relation="OBJ" />
 	</sentence>
-	<sentence id="206" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="mollia0:habet0">
+	<sentence id="206" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="mollia0:habet0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4063,7 +4063,7 @@
 		<word id="25" form="cacumen" lemma="cacumen1" postag="n-s---nn-" head="26" relation="SBJ" />
 		<word id="26" form="habet" lemma="habeo1" postag="v3spia---" head="23" relation="PRED_CO" />
 	</sentence>
-	<sentence id="207" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="remanet0:illa2">
+	<sentence id="207" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="remanet0:illa2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4073,7 +4073,7 @@
 		<word id="4" form="in" lemma="in1" postag="r--------" head="1" relation="AuxP" />
 		<word id="5" form="illa" lemma="ille1" postag="p-s---fb-" head="4" relation="ADV" />
 	</sentence>
-	<sentence id="208" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="hanc0:ligno0">
+	<sentence id="208" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="hanc0:ligno0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4106,7 +4106,7 @@
 		<word id="27" form="dat" lemma="do1" postag="v3spia---" head="24" relation="PRED_CO" />
 		<word id="28" form="ligno" lemma="lignum1" postag="n-s---nd-" head="27" relation="OBJ" />
 	</sentence>
-	<sentence id="209" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="refugit0:lignum0">
+	<sentence id="209" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="refugit0:lignum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4115,7 +4115,7 @@
 		<word id="3" form="oscula" lemma="osculum1" postag="n-p---na-" head="1" relation="OBJ" />
 		<word id="4" form="lignum" lemma="lignum1" postag="n-s---nn-" head="1" relation="SBJ" />
 	</sentence>
-	<sentence id="210" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="cui0:mea1">
+	<sentence id="210" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="cui0:mea1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4138,7 +4138,7 @@
 		<word id="17" form="&quot;" lemma="QUOTE1" postag="u--------" head="13" relation="AuxG" />
 		<word id="18" form="mea" lemma="meus1" postag="a-s---fn-" head="12" relation="ATR" />
 	</sentence>
-	<sentence id="211" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="semper0:pharetrae0">
+	<sentence id="211" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="semper0:pharetrae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4157,7 +4157,7 @@
 		<word id="13" form="," lemma="comma1" postag="u--------" head="12" relation="AuxX" />
 		<word id="14" form="pharetrae" lemma="pharetra1" postag="n-p---fn-" head="8" relation="SBJ_ExD1_PRED_CO" />
 	</sentence>
-	<sentence id="212" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="tu0:pompas0">
+	<sentence id="212" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="tu0:pompas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4177,7 +4177,7 @@
 		<word id="14" form="Capitolia" lemma="Capitolium1" postag="n-p---nn-" head="12" relation="SBJ" />
 		<word id="15" form="pompas" lemma="pompa1" postag="n-p---fa-" head="12" relation="OBJ" />
 	</sentence>
-	<sentence id="213" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="postibus0:honores0">
+	<sentence id="213" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="postibus0:honores0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4211,14 +4211,14 @@
 		<word id="28" form="frondis" lemma="frons1" postag="n-s---fg-" head="29" relation="ATR" />
 		<word id="29" form="honores" lemma="honor1" postag="n-p---ma-" head="27" relation="OBJ" />
 	</sentence>
-	<sentence id="214" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="finierat0:paean0">
+	<sentence id="214" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="finierat0:paean0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="Finierat" lemma="finio1" postag="v3slia---" head="0" relation="PRED" />
 		<word id="2" form="Paean" lemma="Paean1" postag="n-s---mn-" head="1" relation="SBJ" />
 	</sentence>
-	<sentence id="215" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=525" span="factis0:cacumen1">
+	<sentence id="215" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.525" span="factis0:cacumen1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4235,7 +4235,7 @@
 		<word id="11" form="agitasse" lemma="agito1" postag="v--rna---" head="9" relation="OBJ" />
 		<word id="12" form="cacumen" lemma="cacumen1" postag="n-s---na-" head="11" relation="OBJ" />
 	</sentence>
-	<sentence id="216" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="est0:silva0">
+	<sentence id="216" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="est0:silva0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4249,14 +4249,14 @@
 		<word id="8" form="claudit" lemma="claudo1" postag="v3spia---" head="2" relation="ATR" />
 		<word id="9" form="silva" lemma="silva1" postag="n-s---fn-" head="8" relation="SBJ" />
 	</sentence>
-	<sentence id="217" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="vocant0:tempe0">
+	<sentence id="217" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="vocant0:tempe0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="vocant" lemma="voco1" postag="v3ppia---" head="0" relation="PRED" />
 		<word id="2" form="Tempe" lemma="Tempe" postag="n-s---n--" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="218" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="per0:fatigat0">
+	<sentence id="218" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="per0:fatigat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4291,7 +4291,7 @@
 		<word id="29" form="vicina" lemma="vicinus1" postag="a-s---fb-" head="28" relation="ADV" />
 		<word id="30" form="fatigat" lemma="fatigo1" postag="v3spia---" head="25" relation="PRED_CO" />
 	</sentence>
-	<sentence id="219" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="haec0:amnis0">
+	<sentence id="219" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="haec0:amnis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4307,7 +4307,7 @@
 		<word id="10" form="magni" lemma="magnus1" postag="a-s---mg-" head="11" relation="ATR" />
 		<word id="11" form="amnis" lemma="amnis1" postag="n-s---mg-" head="9" relation="ATR" />
 	</sentence>
-	<sentence id="220" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="in0:undas0">
+	<sentence id="220" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="in0:undas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4327,7 +4327,7 @@
 		<word id="14" form="colentibus" lemma="colo1" postag="t-pppafd-" head="13" relation="ATR" />
 		<word id="15" form="undas" lemma="unda1" postag="n-p---fa-" head="14" relation="OBJ" />
 	</sentence>
-	<sentence id="221" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="conveniunt0:undas1">
+	<sentence id="221" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="conveniunt0:undas1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4377,7 +4377,7 @@
 		<word id="44" form="erroribus" lemma="error1" postag="n-p---mb-" head="42" relation="ADV" />
 		<word id="45" form="undas" lemma="unda1" postag="n-p---fa-" head="42" relation="OBJ" />
 	</sentence>
-	<sentence id="222" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="inachus0:amissam0">
+	<sentence id="222" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="inachus0:amissam0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4399,7 +4399,7 @@
 		<word id="16" form="ut" lemma="ut1" postag="c--------" head="15" relation="AuxC" />
 		<word id="17" form="amissam" lemma="amitto1" postag="t-srppfa-" head="16" relation="ADV" />
 	</sentence>
-	<sentence id="223" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="nescit0:manes0">
+	<sentence id="223" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="nescit0:manes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4414,7 +4414,7 @@
 		<word id="9" form="apud" lemma="apud1" postag="r--------" head="8" relation="AuxP" />
 		<word id="10" form="manes" lemma="Manes1" postag="n-p---ma-" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="224" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="sed0:usquam0">
+	<sentence id="224" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="sed0:usquam0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4424,7 +4424,7 @@
 		<word id="4" form="invenit" lemma="invenio1" postag="v3spia---" head="1" relation="PRED_CO" />
 		<word id="5" form="usquam" lemma="usquam1" postag="d--------" head="4" relation="ADV" />
 	</sentence>
-	<sentence id="225" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="esse0:veretur0">
+	<sentence id="225" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="esse0:veretur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4436,7 +4436,7 @@
 		<word id="6" form="peiora" lemma="malus1" postag="a-p---nac" head="7" relation="OBJ" />
 		<word id="7" form="veretur" lemma="vereor1" postag="v3spip---" head="4" relation="PRED_CO" />
 	</sentence>
-	<sentence id="226" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="viderat0:orbe0">
+	<sentence id="226" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="viderat0:orbe0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4486,7 +4486,7 @@
 		<word id="44" form="altissimus" lemma="altus1" postag="a-s---mns" head="43" relation="PNOM" />
 		<word id="45" form="orbe" lemma="orbis1" postag="n-s---mb-" head="43" relation="ADV" />
 	</sentence>
-	<sentence id="227" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="quodsi0:mitto0">
+	<sentence id="227" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="quodsi0:mitto0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4524,7 +4524,7 @@
 		<word id="32" form="fulmina" lemma="fulmen1" postag="n-p---na-" head="33" relation="OBJ" />
 		<word id="33" form="mitto" lemma="mitto1" postag="v1spia---" head="29" relation="ATR_CO" />
 	</sentence>
-	<sentence id="228" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="ne0:me0">
+	<sentence id="228" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="ne0:me0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4532,7 +4532,7 @@
 		<word id="2" form="fuge" lemma="fugio1" postag="v2spma---" head="0" relation="PRED" />
 		<word id="3" form="me" lemma="ego1" postag="p-s---ma-" head="2" relation="OBJ" />
 	</sentence>
-	<sentence id="229" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="-0:enim0">
+	<sentence id="229" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="-0:enim0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4540,7 +4540,7 @@
 		<word id="2" form="fugiebat" lemma="fugio1" postag="v3siia---" head="0" relation="PRED" />
 		<word id="3" form="enim" lemma="enim1" postag="c--------" head="2" relation="AuxY" />
 	</sentence>
-	<sentence id="230" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="iam0:pudorem0">
+	<sentence id="230" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="iam0:pudorem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4568,7 +4568,7 @@
 		<word id="22" form="rapuit" lemma="rapio1" postag="v3sria---" head="21" relation="ADV_CO" />
 		<word id="23" form="pudorem" lemma="pudor1" postag="n-s---ma-" head="22" relation="OBJ" />
 	</sentence>
-	<sentence id="231" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="interea0:remitti0">
+	<sentence id="231" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="interea0:remitti0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4601,7 +4601,7 @@
 		<word id="27" form="tellure" lemma="tellus1" postag="n-s---fb-" head="28" relation="OBJ" />
 		<word id="28" form="remitti" lemma="remitto1" postag="v--pnp---" head="26" relation="OBJ" />
 	</sentence>
-	<sentence id="232" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="atque1:mariti0">
+	<sentence id="232" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="atque1:mariti0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4621,7 +4621,7 @@
 		<word id="14" form="furta" lemma="furtum1" postag="n-p---na-" head="13" relation="OBJ" />
 		<word id="15" form="mariti" lemma="maritus1" postag="n-s---mg-" head="14" relation="ATR" />
 	</sentence>
-	<sentence id="233" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="quem1:iussit0">
+	<sentence id="233" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="quem1:iussit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4655,7 +4655,7 @@
 		<word id="28" form="recedere" lemma="recedo1" postag="v--pna---" head="29" relation="OBJ" />
 		<word id="29" form="iussit" lemma="jubeo1" postag="v3sria---" head="26" relation="PRED_CO" />
 	</sentence>
-	<sentence id="234" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="coniugis0:iuvencam0">
+	<sentence id="234" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="coniugis0:iuvencam0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4670,7 +4670,7 @@
 		<word id="9" form="ille" lemma="ille1" postag="p-s---mn-" head="8" relation="SBJ" />
 		<word id="10" form="iuvencam" lemma="juvenca1" postag="n-s---fa-" head="8" relation="OBJ" />
 	</sentence>
-	<sentence id="235" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="bos0:est2">
+	<sentence id="235" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="bos0:est2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4679,7 +4679,7 @@
 		<word id="3" form="formosa" lemma="formosus1" postag="a-s---fn-" head="1" relation="ATR" />
 		<word id="4" form="est" lemma="sum1" postag="v3spia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="236" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="speciem0:quaerit0">
+	<sentence id="236" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="speciem0:quaerit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4709,7 +4709,7 @@
 		<word id="24" form="nescia" lemma="nescius1" postag="a-s---fn-" head="23" relation="ADV" />
 		<word id="25" form="quaerit" lemma="quaero1" postag="v3spia---" head="10" relation="PRED_CO" />
 	</sentence>
-	<sentence id="237" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="petit0:munus0">
+	<sentence id="237" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="petit0:munus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4718,14 +4718,14 @@
 		<word id="3" form="Saturnia" lemma="Saturnius1" postag="a-s---fn-" head="1" relation="SBJ" />
 		<word id="4" form="munus" lemma="munus1" postag="n-s---na-" head="2" relation="ATV" />
 	</sentence>
-	<sentence id="238" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="quid0:faciat0">
+	<sentence id="238" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="quid0:faciat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="Quid" lemma="quis1" postag="p-s---na-" head="2" relation="OBJ" />
 		<word id="2" form="faciat" lemma="facio1" postag="v3spsa---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="239" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="crudele0:est3">
+	<sentence id="239" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="crudele0:est3">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4739,7 +4739,7 @@
 		<word id="8" form="suspectum" lemma="suspicio1" postag="a-s---nn-" head="9" relation="PNOM" />
 		<word id="9" form="est" lemma="sum1" postag="v3spia---" head="5" relation="PRED_CO" />
 	</sentence>
-	<sentence id="240" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="pudor0:amor0">
+	<sentence id="240" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="pudor0:amor0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4753,7 +4753,7 @@
 		<word id="8" form="dissuadet" lemma="dissuadeo1" postag="v3spia---" head="6" relation="PRED_CO" />
 		<word id="9" form="amor" lemma="amor1" postag="n-s---mn-" head="8" relation="SBJ" />
 	</sentence>
-	<sentence id="241" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="victus0:amore0">
+	<sentence id="241" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="victus0:amore0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4762,7 +4762,7 @@
 		<word id="3" form="esset" lemma="sum1" postag="v3sisa---" head="1" relation="AuxV" />
 		<word id="4" form="amore" lemma="amor1" postag="n-s---mb-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="242" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="sed3:videri0">
+	<sentence id="242" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="sed3:videri0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4783,7 +4783,7 @@
 		<word id="15" form="vacca" lemma="vacca1" postag="n-s---fn-" head="16" relation="PNOM" />
 		<word id="16" form="videri" lemma="video1" postag="v--pnp---" head="13" relation="OBJ" />
 	</sentence>
-	<sentence id="243" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="paelice0:habebat0">
+	<sentence id="243" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="paelice0:habebat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4816,7 +4816,7 @@
 		<word id="27" form="Argus" lemma="Argus1" postag="n-s---mn-" head="28" relation="SBJ" />
 		<word id="28" form="habebat" lemma="habeo1" postag="v3siia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="244" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="inde0:manebant0">
+	<sentence id="244" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="inde0:manebant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4834,7 +4834,7 @@
 		<word id="12" form="statione" lemma="statio1" postag="n-s---fb-" head="11" relation="ADV" />
 		<word id="13" form="manebant" lemma="maneo1" postag="v3piia---" head="10" relation="PRED_CO" />
 	</sentence>
-	<sentence id="245" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="constiterat0:io1">
+	<sentence id="245" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="constiterat0:io1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4846,7 +4846,7 @@
 		<word id="6" form="ad" lemma="ad1" postag="r--------" head="5" relation="AuxP" />
 		<word id="7" form="Io" lemma="Io1" postag="n-s---fa-" head="6" relation="OBJ" />
 	</sentence>
-	<sentence id="246" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="ante0:habebat1">
+	<sentence id="246" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="ante0:habebat1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4859,7 +4859,7 @@
 		<word id="7" form="," lemma="comma1" postag="u--------" head="6" relation="AuxX" />
 		<word id="8" form="habebat" lemma="habeo1" postag="v3siia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="247" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="luce0:pasci0">
+	<sentence id="247" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="luce0:pasci0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4867,7 +4867,7 @@
 		<word id="2" form="sinit" lemma="sino1" postag="v3spia---" head="0" relation="PRED" />
 		<word id="3" form="pasci" lemma="pascor1" postag="v--pnp---" head="2" relation="OBJ" />
 	</sentence>
-	<sentence id="248" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="cum1:collo0">
+	<sentence id="248" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="cum1:collo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4885,7 +4885,7 @@
 		<word id="12" form="vincula" lemma="vinculum1" postag="n-p---na-" head="11" relation="OBJ" />
 		<word id="13" form="collo" lemma="collum1" postag="n-s---nd-" head="11" relation="OBJ" />
 	</sentence>
-	<sentence id="249" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="frondibus0:potat0">
+	<sentence id="249" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="frondibus0:potat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4911,7 +4911,7 @@
 		<word id="20" form="flumina" lemma="flumen1" postag="n-p---na-" head="21" relation="OBJ" />
 		<word id="21" form="potat" lemma="poto1" postag="v3spia---" head="18" relation="PRED_CO" />
 	</sentence>
-	<sentence id="250" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="illa0:est6">
+	<sentence id="250" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="illa0:est6">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4947,7 +4947,7 @@
 		<word id="30" form="voce" lemma="vox1" postag="n-s---fb-" head="29" relation="OBJ" />
 		<word id="31" form="est" lemma="sum1" postag="v3spia---" head="29" relation="AuxV" />
 	</sentence>
-	<sentence id="251" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="venit0:ripas1">
+	<sentence id="251" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="venit0:ripas1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4964,7 +4964,7 @@
 		<word id="11" form="Inachidas" lemma="Inachis1" postag="a-p---fa-" head="12" relation="ATR" />
 		<word id="12" form="ripas" lemma="ripa1" postag="n-p---fa-" head="10" relation="OBJ_AP" />
 	</sentence>
-	<sentence id="252" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="novaque0:refugit0">
+	<sentence id="252" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="novaque0:refugit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4982,7 +4982,7 @@
 		<word id="12" form="exsternata" lemma="exsterno1" postag="t-srppfn-" head="13" relation="ATV" />
 		<word id="13" form="refugit" lemma="refugio1" postag="v3sria---" head="10" relation="PRED_CO" />
 	</sentence>
-	<sentence id="253" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="naides0:sit3">
+	<sentence id="253" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="naides0:sit3">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -4997,7 +4997,7 @@
 		<word id="9" form="quae" lemma="qui1" postag="p-s---fn-" head="10" relation="SBJ" />
 		<word id="10" form="sit" lemma="sum1" postag="v3spsa---" head="5" relation="OBJ" />
 	</sentence>
-	<sentence id="254" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="at0:offert0">
+	<sentence id="254" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="at0:offert0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5016,7 +5016,7 @@
 		<word id="13" form="admirantibus" lemma="admiror1" postag="t-pppamd-" head="14" relation="OBJ" />
 		<word id="14" form="offert" lemma="offertor1" postag="v3spia---" head="11" relation="PRED_CO" />
 	</sentence>
-	<sentence id="255" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="decerptas0:herbas0">
+	<sentence id="255" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="decerptas0:herbas0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5026,7 +5026,7 @@
 		<word id="4" form="Inachus" lemma="Inachus1" postag="n-s---mn-" head="3" relation="SBJ" />
 		<word id="5" form="herbas" lemma="herba1" postag="n-p---fa-" head="3" relation="OBJ" />
 	</sentence>
-	<sentence id="256" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="illa2:loquatur0">
+	<sentence id="256" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="illa2:loquatur0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5058,7 +5058,7 @@
 		<word id="26" form="casus" lemma="casus1" postag="n-p---ma-" head="25" relation="OBJ_CO" />
 		<word id="27" form="loquatur" lemma="loquor1" postag="v3spsp---" head="22" relation="PRED_CO" />
 	</sentence>
-	<sentence id="257" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=567" span="littera0:peregit0">
+	<sentence id="257" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.567" span="littera0:peregit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5078,14 +5078,14 @@
 		<word id="14" form="triste" lemma="triste1" postag="n-s---na-" head="12" relation="ATR" />
 		<word id="15" form="peregit" lemma="perago1" postag="v3sria---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="258" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="me0:miserum0">
+	<sentence id="258" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="me0:miserum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
 		<word id="1" form="Me" lemma="ego1" postag="p-s---ma-" head="0" relation="OBJ_ExD0_PRED" />
 		<word id="2" form="miserum" lemma="miser1" postag="a-s---ma-" head="1" relation="ATR" />
 	</sentence>
-	<sentence id="259" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="exclamat0:miserum1">
+	<sentence id="259" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="exclamat0:miserum1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5104,7 +5104,7 @@
 		<word id="13" form="me" lemma="ego1" postag="p-s---ma-" head="1" relation="OBJ" />
 		<word id="14" form="miserum" lemma="miser1" postag="a-s---ma-" head="13" relation="ATR" />
 	</sentence>
-	<sentence id="260" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="ingeminat0:terras0">
+	<sentence id="260" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="ingeminat0:terras0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5122,7 +5122,7 @@
 		<word id="12" form="mihi" lemma="ego1" postag="p-s---md-" head="7" relation="OBJ" />
 		<word id="13" form="terras" lemma="terra1" postag="n-p---fa-" head="8" relation="ADV" />
 	</sentence>
-	<sentence id="261" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="tu0:levior0">
+	<sentence id="261" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="tu0:levior0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5134,7 +5134,7 @@
 		<word id="6" form="eras" lemma="sum1" postag="v2siia---" head="0" relation="PRED" />
 		<word id="7" form="levior" lemma="levis1" postag="a-s---mnc" head="5" relation="ATR" />
 	</sentence>
-	<sentence id="262" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="retices0:remugis0">
+	<sentence id="262" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="retices0:remugis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5161,7 +5161,7 @@
 		<word id="21" form="verba" lemma="verbum1" postag="n-p---na-" head="19" relation="OBJ" />
 		<word id="22" form="remugis" lemma="remugio1" postag="v2spia---" head="14" relation="PRED_CO" />
 	</sentence>
-	<sentence id="263" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="at0:nepotum0">
+	<sentence id="263" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="at0:nepotum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5184,7 +5184,7 @@
 		<word id="17" form="secunda" lemma="secundus1" postag="a-s---fn-" head="16" relation="ATR_ExD1_SBJ_ExD0_PRED_CO" />
 		<word id="18" form="nepotum" lemma="nepos1" postag="n-p---mg-" head="16" relation="PNOM_ExD0_PRED_CO" />
 	</sentence>
-	<sentence id="264" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="de0:habendus0">
+	<sentence id="264" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="de0:habendus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5200,7 +5200,7 @@
 		<word id="10" form="natus" lemma="natus2" postag="n-s---mn-" head="11" relation="SBJ" />
 		<word id="11" form="habendus" lemma="habeo1" postag="t-spgpmn-" head="6" relation="PRED_CO" />
 	</sentence>
-	<sentence id="265" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="nec1:aevum0">
+	<sentence id="265" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="nec1:aevum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5229,7 +5229,7 @@
 		<word id="23" form="in" lemma="in1" postag="r--------" head="22" relation="AuxP" />
 		<word id="24" form="aevum" lemma="aevum1" postag="n-s---na-" head="23" relation="OBJ" />
 	</sentence>
-	<sentence id="266" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="talia0:abstrahit0">
+	<sentence id="266" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="talia0:abstrahit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5247,7 +5247,7 @@
 		<word id="12" form="natam" lemma="nata1" postag="n-s---fa-" head="13" relation="OBJ" />
 		<word id="13" form="abstrahit" lemma="abstraho1" postag="v3spia---" head="6" relation="PRED_CO" />
 	</sentence>
-	<sentence id="267" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="ipse0:omnes1">
+	<sentence id="267" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="ipse0:omnes1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5265,7 +5265,7 @@
 		<word id="12" form="in" lemma="in1" postag="r--------" head="11" relation="AuxP" />
 		<word id="13" form="omnes" lemma="omnis1" postag="a-p---fa-" head="10" relation="ATR" />
 	</sentence>
-	<sentence id="268" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="nec2:argum0">
+	<sentence id="268" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="nec2:argum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5296,7 +5296,7 @@
 		<word id="25" form="imperat" lemma="impero1" postag="v3spia---" head="22" relation="PRED_CO" />
 		<word id="26" form="Argum" lemma="Argus1" postag="n-s---ma-" head="24" relation="OBJ" />
 	</sentence>
-	<sentence id="269" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="parva0:capillis0">
+	<sentence id="269" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="parva0:capillis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5315,7 +5315,7 @@
 		<word id="13" form="tegimen" lemma="tegimen1" postag="n-s---na-" head="12" relation="OBJ_ExD1_SBJ_CO" />
 		<word id="14" form="capillis" lemma="capillus1" postag="n-p---md-" head="12" relation="ADV_ExD1_SBJ_CO" />
 	</sentence>
-	<sentence id="270" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="haec0:terras1">
+	<sentence id="270" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="haec0:terras1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5332,7 +5332,7 @@
 		<word id="11" form="in" lemma="in1" postag="r--------" head="10" relation="AuxP" />
 		<word id="12" form="terras" lemma="terra1" postag="n-p---fa-" head="11" relation="OBJ" />
 	</sentence>
-	<sentence id="271" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="illic0:est2">
+	<sentence id="271" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="illic0:est2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5349,7 +5349,7 @@
 		<word id="11" form="retenta" lemma="retineo1" postag="t-srppfn-" head="8" relation="PRED_CO" />
 		<word id="12" form="est" lemma="sum1" postag="v3spia---" head="11" relation="AuxV" />
 	</sentence>
-	<sentence id="272" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="hac0:avenis0">
+	<sentence id="272" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="hac0:avenis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5373,7 +5373,7 @@
 		<word id="18" form="cantat" lemma="canto1" postag="v3spia---" head="16" relation="PRED_CO" />
 		<word id="19" form="avenis" lemma="avena1" postag="n-p---fb-" head="17" relation="SBJ" />
 	</sentence>
-	<sentence id="273" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="voce0:umbram0">
+	<sentence id="273" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="voce0:umbram0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5416,7 +5416,7 @@
 		<word id="37" form="pastoribus" lemma="pastor1" postag="n-p---md-" head="35" relation="OBJ" />
 		<word id="38" form="umbram" lemma="umbra1" postag="n-s---fa-" head="36" relation="SBJ_ExD1_OBJ" />
 	</sentence>
-	<sentence id="274" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="sedit0:temptat0">
+	<sentence id="274" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="sedit0:temptat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5438,7 +5438,7 @@
 		<word id="16" form="lumina" lemma="lumen1" postag="n-p---na-" head="13" relation="OBJ" />
 		<word id="17" form="temptat" lemma="tento1" postag="v3spia---" head="10" relation="PRED_CO" />
 	</sentence>
-	<sentence id="275" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="ille0:vigilat0">
+	<sentence id="275" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="ille0:vigilat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5461,7 +5461,7 @@
 		<word id="17" form="tamen" lemma="tamen1" postag="d--------" head="18" relation="AuxZ" />
 		<word id="18" form="vigilat" lemma="vigilo1" postag="v3spia---" head="7" relation="PRED_CO" />
 	</sentence>
-	<sentence id="276" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="quaerit0:reperta2">
+	<sentence id="276" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="quaerit0:reperta2">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5481,7 +5481,7 @@
 		<word id="14" form="ratione" lemma="ratio1" postag="n-s---fb-" head="15" relation="ADV" />
 		<word id="15" form="reperta" lemma="reperio1" postag="t-srppfn-" head="1" relation="OBJ" />
 	</sentence>
-	<sentence id="277" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="tum0:fuit1">
+	<sentence id="277" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="tum0:fuit1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5503,7 +5503,7 @@
 		<word id="16" form="una" lemma="unus1" postag="a-s---fn-" head="15" relation="ATR" />
 		<word id="17" form="fuit" lemma="sum1" postag="v3sria---" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="278" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="nymphae0:vocabant0">
+	<sentence id="278" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="nymphae0:vocabant0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5511,7 +5511,7 @@
 		<word id="2" form="Syringa" lemma="Syrinx1" postag="n-s---fa-" head="3" relation="OBJ" />
 		<word id="3" form="vocabant" lemma="voco1" postag="v3piia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="279" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="non1:habet0">
+	<sentence id="279" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="non1:habet0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5533,7 +5533,7 @@
 		<word id="16" form="rus" lemma="rus1" postag="n-s---nn-" head="14" relation="SBJ_CO" />
 		<word id="17" form="habet" lemma="habeo1" postag="v3spia---" head="10" relation="ATR" />
 	</sentence>
-	<sentence id="280" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="ortygiam0:deam0">
+	<sentence id="280" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="ortygiam0:deam0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5545,7 +5545,7 @@
 		<word id="6" form="virginitate" lemma="virginitas1" postag="n-s---fb-" head="3" relation="ADV_CO" />
 		<word id="7" form="deam" lemma="dea1" postag="n-s---fa-" head="5" relation="OBJ_AP_ExD_APOS" />
 	</sentence>
-	<sentence id="281" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="ritu0:illi0">
+	<sentence id="281" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="ritu0:illi0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5571,7 +5571,7 @@
 		<word id="20" form="aureus" lemma="aureus1" postag="a-s---mn-" head="19" relation="PNOM" />
 		<word id="21" form="illi" lemma="ille1" postag="p-s---fd-" head="19" relation="ATR_ExD1_SBJ" />
 	</sentence>
-	<sentence id="282" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="sic0:fallebat0">
+	<sentence id="282" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="sic0:fallebat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5579,7 +5579,7 @@
 		<word id="2" form="quoque" lemma="quoque1" postag="d--------" head="3" relation="AuxY" />
 		<word id="3" form="fallebat" lemma="fallo1" postag="v3siia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="283" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="redeuntem0:venerit0">
+	<sentence id="283" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="redeuntem0:venerit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5618,7 +5618,7 @@
 		<word id="33" form="amnem" lemma="amnis1" postag="n-s---ma-" head="32" relation="OBJ" />
 		<word id="34" form="venerit" lemma="venio1" postag="v3srsa---" head="28" relation="ADV" />
 	</sentence>
-	<sentence id="284" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="hic0:palustres0">
+	<sentence id="284" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="hic0:palustres0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5651,7 +5651,7 @@
 		<word id="27" form="tenuisse" lemma="teneo1" postag="v--rna---" head="13" relation="PRED_CO" />
 		<word id="28" form="palustres" lemma="paluster1" postag="a-p---ma-" head="26" relation="ATR" />
 	</sentence>
-	<sentence id="285" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="dumque0:querenti0">
+	<sentence id="285" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="dumque0:querenti0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5671,7 +5671,7 @@
 		<word id="14" form="similem" lemma="similis1" postag="a-s---ma-" head="13" relation="ATR_CO" />
 		<word id="15" form="querenti" lemma="queror1" postag="t-sppamd-" head="14" relation="OBJ" />
 	</sentence>
-	<sentence id="286" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="arte0:manebit0">
+	<sentence id="286" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="arte0:manebit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5692,7 +5692,7 @@
 		<word id="15" form="&apos;" lemma="QUOTE1" postag="u--------" head="16" relation="AuxG" />
 		<word id="16" form="manebit" lemma="maneo1" postag="v3sfia---" head="14" relation="OBJ" />
 	</sentence>
-	<sentence id="287" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=650" span="atque0:puellae0">
+	<sentence id="287" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.650" span="atque0:puellae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5709,7 +5709,7 @@
 		<word id="11" form="tenuisse" lemma="teneo1" postag="v--rna---" head="1" relation="PRED_CO" />
 		<word id="12" form="puellae" lemma="puella1" postag="n-s---fg-" head="10" relation="ATR" />
 	</sentence>
-	<sentence id="288" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="talia0:somno0">
+	<sentence id="288" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="talia0:somno0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5725,7 +5725,7 @@
 		<word id="10" form="lumina" lemma="lumen1" postag="n-p---na-" head="9" relation="SBJ" />
 		<word id="11" form="somno" lemma="somnus1" postag="n-s---mb-" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="289" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="supprimit0:virga0">
+	<sentence id="289" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="supprimit0:virga0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5741,7 +5741,7 @@
 		<word id="10" form="lumina" lemma="lumen1" postag="n-p---na-" head="8" relation="OBJ" />
 		<word id="11" form="virga" lemma="virga1" postag="n-s---fb-" head="8" relation="ADV" />
 	</sentence>
-	<sentence id="290" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="nec0:rupem0">
+	<sentence id="290" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="nec0:rupem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5769,7 +5769,7 @@
 		<word id="22" form="sanguine" lemma="sanguis1" postag="n-s---mb-" head="20" relation="ADV" />
 		<word id="23" form="rupem" lemma="rupes1" postag="n-s---fa-" head="20" relation="OBJ" />
 	</sentence>
-	<sentence id="291" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="arge0:una0">
+	<sentence id="291" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="arge0:una0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5794,7 +5794,7 @@
 		<word id="19" form="occupat" lemma="occupo1" postag="v3spia---" head="15" relation="PRED_CO" />
 		<word id="20" form="una" lemma="unus1" postag="d--------" head="19" relation="ADV" />
 	</sentence>
-	<sentence id="292" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="excipit0:inplet0">
+	<sentence id="292" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="excipit0:inplet0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5812,7 +5812,7 @@
 		<word id="12" form="stellantibus" lemma="stello1" postag="t-pppafb-" head="10" relation="ATR" />
 		<word id="13" form="inplet" lemma="inpleo1" postag="v3spia---" head="9" relation="PRED_CO" />
 	</sentence>
-	<sentence id="293" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="protinus0:orbem0">
+	<sentence id="293" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="protinus0:orbem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5845,7 +5845,7 @@
 		<word id="27" form="terruit" lemma="terreo1" postag="v3sria---" head="23" relation="PRED_CO" />
 		<word id="28" form="orbem" lemma="orbis1" postag="n-s---ma-" head="25" relation="ADV" />
 	</sentence>
-	<sentence id="294" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="ultimus0:labori0">
+	<sentence id="294" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="ultimus0:labori0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5857,7 +5857,7 @@
 		<word id="6" form="," lemma="comma1" postag="u--------" head="5" relation="AuxX" />
 		<word id="7" form="labori" lemma="labor2" postag="n-s---md-" head="1" relation="ATR" />
 	</sentence>
-	<sentence id="295" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="quem0:malorum0">
+	<sentence id="295" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="quem0:malorum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5901,7 +5901,7 @@
 		<word id="38" form="orare" lemma="oro1" postag="v--pna---" head="36" relation="OBJ_CO" />
 		<word id="39" form="malorum" lemma="malum1" postag="n-p---ng-" head="37" relation="ATR" />
 	</sentence>
-	<sentence id="296" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="coniugis0:inquit0">
+	<sentence id="296" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="coniugis0:inquit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5929,7 +5929,7 @@
 		<word id="22" form="&quot;" lemma="QUOTE1" postag="u--------" head="20" relation="AuxG" />
 		<word id="23" form="inquit" lemma="inquam1" postag="v3spia---" head="17" relation="PRED_CO" />
 	</sentence>
-	<sentence id="297" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="numquam0:erit0">
+	<sentence id="297" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="numquam0:erit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5940,7 +5940,7 @@
 		<word id="5" form="haec" lemma="hic1" postag="p-s---fn-" head="6" relation="SBJ" />
 		<word id="6" form="erit" lemma="sum1" postag="v3sfia---" head="0" relation="PRED" />
 	</sentence>
-	<sentence id="298" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="et6:paludes0">
+	<sentence id="298" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="et6:paludes0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5951,7 +5951,7 @@
 		<word id="5" form="audire" lemma="audio1" postag="v--pna---" head="3" relation="OBJ" />
 		<word id="6" form="paludes" lemma="palus2" postag="n-p---fa-" head="5" relation="SBJ" />
 	</sentence>
-	<sentence id="299" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="ut1:fuit0">
+	<sentence id="299" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="ut1:fuit0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -5970,7 +5970,7 @@
 		<word id="13" form="ante" lemma="ante1" postag="d--------" head="14" relation="ADV" />
 		<word id="14" form="fuit" lemma="sum1" postag="v3sria---" head="11" relation="OBJ" />
 	</sentence>
-	<sentence id="300" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="fugiunt0:ungues0">
+	<sentence id="300" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="fugiunt0:ungues0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6004,7 +6004,7 @@
 		<word id="28" form="absumitur" lemma="absumo1" postag="v3spip---" head="23" relation="PRED_CO" />
 		<word id="29" form="ungues" lemma="unguis1" postag="n-p---ma-" head="25" relation="ADV" />
 	</sentence>
-	<sentence id="301" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="de0:illa1">
+	<sentence id="301" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="de0:illa1">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6018,7 +6018,7 @@
 		<word id="8" form="in" lemma="in1" postag="r--------" head="7" relation="AuxP" />
 		<word id="9" form="illa" lemma="ille1" postag="p-s---fb-" head="8" relation="ATR" />
 	</sentence>
-	<sentence id="302" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=712" span="officioque0:retemptat0">
+	<sentence id="302" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.712" span="officioque0:retemptat0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6044,7 +6044,7 @@
 		<word id="20" form="intermissa" lemma="intermissus1" postag="a-p---na-" head="19" relation="ATR" />
 		<word id="21" form="retemptat" lemma="retento1" postag="v3spia---" head="17" relation="PRED_CO" />
 	</sentence>
-	<sentence id="303" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="nunc0:tenet0">
+	<sentence id="303" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="nunc0:tenet0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6074,7 +6074,7 @@
 		<word id="24" form="templa" lemma="templum1" postag="n-p---na-" head="25" relation="OBJ" />
 		<word id="25" form="tenet" lemma="teneo1" postag="v3spia---" head="19" relation="PRED_CO" />
 	</sentence>
-	<sentence id="304" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="fuit0:phaethon0">
+	<sentence id="304" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="fuit0:phaethon0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6088,7 +6088,7 @@
 		<word id="8" form="satus" lemma="sero1" postag="t-srppmn-" head="9" relation="ATR" />
 		<word id="9" form="Phaethon" lemma="Phaethon1" postag="n-s---mn-" head="1" relation="SBJ" />
 	</sentence>
-	<sentence id="305" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="quem0:falsi0">
+	<sentence id="305" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="quem0:falsi0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6124,7 +6124,7 @@
 		<word id="30" form="imagine" lemma="imago1" postag="n-s---fb-" head="28" relation="ADV" />
 		<word id="31" form="falsi" lemma="falsus1" postag="a-s---mg-" head="29" relation="ATR" />
 	</sentence>
-	<sentence id="306" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="erubuit0:matrem0">
+	<sentence id="306" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="erubuit0:matrem0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6142,7 +6142,7 @@
 		<word id="12" form="convicia" lemma="convicium1" postag="n-p---na-" head="8" relation="OBJ" />
 		<word id="13" form="matrem" lemma="mater1" postag="n-s---fa-" head="9" relation="OBJ_AP_ExD_APOS" />
 	</sentence>
-	<sentence id="307" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="quo0:tacui0">
+	<sentence id="307" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="quo0:tacui0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6165,7 +6165,7 @@
 		<word id="17" form="ferox" lemma="ferox1" postag="a-s---mn-" head="16" relation="ATR" />
 		<word id="18" form="tacui" lemma="taceo1" postag="v1sria---" head="10" relation="OBJ" />
 	</sentence>
-	<sentence id="308" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="pudet0:refelli0">
+	<sentence id="308" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="pudet0:refelli0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6181,7 +6181,7 @@
 		<word id="10" form="potuisse" lemma="possum1" postag="v--rna---" head="8" relation="SBJ_CO" />
 		<word id="11" form="refelli" lemma="refello1" postag="v--pnp---" head="10" relation="OBJ" />
 	</sentence>
-	<sentence id="309" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="at0:caelo0">
+	<sentence id="309" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="at0:caelo0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6204,7 +6204,7 @@
 		<word id="17" form="adsere" lemma="assero2" postag="v2spma---" head="15" relation="PRED_CO" />
 		<word id="18" form="caelo" lemma="caelum2" postag="n-s---nd-" head="17" relation="OBJ" />
 	</sentence>
-	<sentence id="310" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="dixit0:parentis0">
+	<sentence id="310" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="dixit0:parentis0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6230,7 +6230,7 @@
 		<word id="20" form="signa" lemma="signum1" postag="n-p---na-" head="16" relation="OBJ" />
 		<word id="21" form="parentis" lemma="parens2" postag="n-s---mg-" head="20" relation="ATR" />
 	</sentence>
-	<sentence id="311" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="ambiguum0:satum0">
+	<sentence id="311" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="ambiguum0:satum0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6295,7 +6295,7 @@
 		<word id="59" form="Sole" lemma="sol1" postag="n-s---mb-" head="60" relation="OBJ" />
 		<word id="60" form="satum" lemma="sero1" postag="t-srppma-" head="37" relation="OBJ" />
 	</sentence>
-	<sentence id="312" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="si1:nostris0">
+	<sentence id="312" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="si1:nostris0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6317,7 +6317,7 @@
 		<word id="16" form="novissima" lemma="novissimus1" postag="a-s---fn-" head="12" relation="PNOM" />
 		<word id="17" form="nostris" lemma="noster1" postag="a-p---md-" head="13" relation="ATR" />
 	</sentence>
-	<sentence id="313" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="nec1:penates0">
+	<sentence id="313" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="nec1:penates0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6331,7 +6331,7 @@
 		<word id="8" form="nosse" lemma="nosco1" postag="v--rna---" head="6" relation="SBJ" />
 		<word id="9" form="penates" lemma="Penates1" postag="n-p---ma-" head="8" relation="OBJ" />
 	</sentence>
-	<sentence id="314" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="unde0:nostrae0">
+	<sentence id="314" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="unde0:nostrae0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6344,7 +6344,7 @@
 		<word id="7" form="contermina" lemma="conterminus1" postag="a-s---fn-" head="5" relation="PNOM" />
 		<word id="8" form="nostrae" lemma="noster1" postag="a-s---fd-" head="6" relation="ATR" />
 	</sentence>
-	<sentence id="315" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="si2:ipso0">
+	<sentence id="315" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="si2:ipso0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
@@ -6359,7 +6359,7 @@
 		<word id="9" form="ab" lemma="ab1" postag="r--------" head="8" relation="AuxP" />
 		<word id="10" form="ipso" lemma="ipse1" postag="p-s---mb-" head="9" relation="OBJ" />
 	</sentence>
-	<sentence id="316" document_id="Perseus:text:1999.02.0029" subdoc="Book=1:card=746" span="emicat0:ortus0">
+	<sentence id="316" document_id="urn:cts:latinLit:phi0959.phi006.alpheios-text-lat1" subdoc="1.746" span="emicat0:ortus0">
 		<primary>millermo</primary>
 		<primary>calliopi</primary>
 		<secondary>megluthin</secondary>
