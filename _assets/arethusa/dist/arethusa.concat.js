@@ -6191,7 +6191,7 @@ angular.module('arethusa.core').service('configurator', [
     };
 
     function getGlobalDefaults() {
-      var globalDefaults = { 'mode' : 'editor' };
+      var globalDefaults = { 'mode' : 'viewer' };
       var customDefaults = getGlobalCustomDefaults();
       var routeDefaults  = getGlobalDefaultsFromRoute();
       return angular.extend({}, globalDefaults, customDefaults, routeDefaults);
@@ -10589,16 +10589,8 @@ angular.module('arethusa.core').run(['$templateCache', function($templateCache) 
 
 
   $templateCache.put('js/arethusa.core/templates/navbar_buttons.html',
-    "<li><a class=\"button\" saver/></li>\n" +
     "<li><a class=\"button\" outputter/></li>\n" +
-    "<li><a class=\"button\" hist-undo/></li>\n" +
-    "<li><a class=\"button\" hist-redo/></li>\n" +
-    "<li><a class=\"button\" sidepanel-folder/></li>\n" +
-    "<li><a class=\"button\" uservoice-trigger/></li>\n" +
-    "<li><a class=\"button\" global-settings-trigger/></li>\n" +
     "<li><a class=\"button\" help-trigger/></li>\n" +
-    "<li><a class=\"button\" translate-language/></li>\n" +
-    "<li><a class=\"button\" exit/></li>\n" +
     "\n"
   );
 
@@ -11253,9 +11245,7 @@ angular.module('arethusa.contextMenu').factory('menuElement', function () {
 
         function repositionContextMenu(menu, parent) {
           // reposition the context menu relative to the parent element
-          console.log(parent);
           var parPos = parent.offset();
-          console.log(parPos);
           var left;
           var top;
           if (scope.menuPosition === 'bottom') {
@@ -11269,6 +11259,8 @@ angular.module('arethusa.contextMenu').factory('menuElement', function () {
           }
           //menu.css('left', left);
           //menu.css('top', top);
+          // widget offsets are being calculated incorrectly
+          // fix the size for now
           menu.css('right', '40px')
           menu.css('top', '150px')
         }
@@ -12874,10 +12866,10 @@ angular.module('arethusa').service('retrieverHelper', [
 'use strict';
 
 angular.module('arethusa').constant('VERSION', {
-  revision: '449ee3e5eb26fba7ede57b24be71aac565de0667',
-  branch: 'master',
+  revision: '6b91d69309ae103d896dd7f42ff4737f0ba62729',
+  branch: 'gardener_widget',
   version: '0.2.5',
-  date: '2017-06-07T14:58:53.301Z',
+  date: '2018-04-23T19:54:42.508Z',
   repository: 'http://github.com/latin-language-toolkit/arethusa'
 });
 
@@ -13502,38 +13494,6 @@ angular.module('arethusa').run(['$templateCache', function($templateCache) {
     "    </morph-form-create>\n" +
     "  </div>\n" +
     "  <div delimiter/>\n" +
-    "</div>\n"
-  );
-
-
-  $templateCache.put('js/templates/morph3.widget.html',
-    "<div ng-repeat=\"(id, analysis) in plugin.currentAnalyses()\">\n" +
-    "  <div class=\"small-12 columns\" lang-specific>\n" +
-    "    <accordion close-others=\"oneAtATime\">\n" +
-    "      <accordion-group\n" +
-    "        ng-repeat=\"form in analysis.forms\"\n" +
-    "        is-open=\"plugin.expandSelection && form.selected\">\n" +
-    "        <accordion-heading>\n" +
-    "          <div class=\"row\" accordion-highlighter>\n" +
-    "            <div class=\"columns large-3 small-5 text\">\n" +
-    "              <span ng-style=\"plugin.styleOf(form)\" lang-specific>{{ form.lemma }}\n" +
-    "              <br>\n" +
-    "              </span> {{ plugin.concatenatedAttributes(form) }}\n" +
-    "            </div>\n" +
-    "            <div\n" +
-    "              class=\"columns large-4 small-5 postag\">\n" +
-    "              {{ form.postag }}\n" +
-    "            </div>\n" +
-    "            <div class=\"columns large-1 hide-for-small hide-for-medium note end\">{{ form.origin }}</div>\n" +
-    "          </div>\n" +
-    "          <hr class=\"small\">\n" +
-    "        </accordion-heading>\n" +
-    "        <div class=\"small-12 columns\" morph-form-attributes=\"form\" token-id=\"id\"></div>\n" +
-    "        <p class=\"small-12 columns\"/>\n" +
-    "        <hr>\n" +
-    "      </accordion-group>\n" +
-    "    </accordion>\n" +
-    "  </div>\n" +
     "</div>\n"
   );
 
