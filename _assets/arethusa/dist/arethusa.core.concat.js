@@ -9968,26 +9968,7 @@ angular.module('arethusa.core').run(['$templateCache', function($templateCache) 
 
 
   $templateCache.put('js/arethusa.core/templates/navbar_buttons_collapsed.html',
-    "<li><a class=\"button\" saver/></li>\n" +
-    "<li><a class=\"button\" hist-undo/></li>\n" +
-    "<li><a class=\"button\" hist-redo/></li>\n" +
-    "<li>\n" +
-    "  <a\n" +
-    "    class=\"button\"\n" +
-    "    title=\"{{ menuTitle }}\"\n" +
-    "    dropdown-toggle=\"#navbar_collapsed_buttons_menu\">\n" +
-    "    <i class=\"fi-align-justify\"></i>\n" +
-    "  </a>\n" +
-    "  <ul id=\"navbar_collapsed_buttons_menu\" class=\"navbar-dropdown\">\n" +
-    "    <li><a outputter/></li>\n" +
-    "    <li><a sidepanel-folder/></li>\n" +
-    "    <li><a uservoice-trigger/></li>\n" +
-    "    <li><a help-trigger/></li>\n" +
-    "    <li><a global-settings-trigger/></li>\n" +
-    "    <li><a translate-language/></li>\n" +
-    "    <li><a exit/></li>\n" +
-    "  </ul>\n" +
-    "</li>\n"
+    "<li><a help-trigger/></li>\n"
   );
 
 
