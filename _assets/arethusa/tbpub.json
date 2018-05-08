@@ -12,6 +12,7 @@
       }
     },
     "plugins": [
+      "text",
       "morph",
       "relation",
       "depTree"
@@ -71,6 +72,10 @@
     }
   },
   "plugins": {
+    "text" : {
+      "main" : true,
+      "template"  : "js/templates/text_with_context.html"
+    },
     "depTree": {
       "main": true,
       "contextMenu": false,

@@ -7,3 +7,7 @@ html, body {
 #main_content {
   height: 100%;
 }
+
+#text {
+  margin-top: 1em;
+}
