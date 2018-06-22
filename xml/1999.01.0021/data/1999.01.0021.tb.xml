@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <treebank xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.5" xsi:schemaLocation="http://nlp.perseus.tufts.edu/syntax/treebank/1.5 treebank-1.5.xsd" xml:lang="grc" format="aldt">
     <date>Thu Jul 09 21:09:25 EDT 2009</date>
     <sentence id="1" document_id="Perseus:text:1999.01.0021" subdoc="text=Library:book=1:chapter=5" span="Πλούτων0:.0">
