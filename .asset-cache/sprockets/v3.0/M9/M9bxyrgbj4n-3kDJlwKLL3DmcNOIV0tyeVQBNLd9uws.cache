@@ -1,0 +1,39 @@
+{:uriI"Œfile://_assets/arethusa/_site/configs/default.json?type=application/json&id=c585453f5bb1a9f4c22fbd9797b372778668dadb791edebbd6be63a592084815:ET:load_pathI"_assets/arethusa;T:filenameI"0_assets/arethusa/_site/configs/default.json;T:	nameI"_site/configs/default;T:logical_pathI"_site/configs/default.json;T:content_typeI"application/json;T:sourceI"—{
+  "fakeResolver" : {
+    "route" : "http://localhost:8090/resolve/:urn",
+    "params": [
+      "urn"
+    ]
+  },
+
+  "arethusaServerTreebank" : {
+    "route" : "http://localhost:8090/examples/treebanks/1.xml"
+  },
+
+  "lexInvFusekiEndpoint" : {
+    "route" : "http://sosol.perseus.tufts.edu/fuseki/ds/query?format=json"
+  },
+
+  "morphologyServiceLat" : {
+    "route" : "https://services.perseids.org/bsp/morphologyservice/analysis/word?lang=lat&engine=morpheuslat"
+  },
+
+  "morphologyServiceGrc" : {
+    "route" : "https://services.perseids.org/bsp/morphologyservice/analysis/word?lang=grc&engine=morpheusgrc"
+  },
+  "morphologyServicePer" : {
+    "route" : "https://localhost/extapi/morphologyservice/analysis/word?lang=per&engine=hazm"
+  },
+
+  "citeMapper" : {
+    "route" : "https://services.perseids.org/cite_mapper/find_cite"
+  },
+
+  "sgGrammar" : {
+    "route" : "https://services.perseids.org/sg/:doc.html"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash{	I"environment-version;TTI"environment-paths;TTI"@processors:type=application/json&file_type=application/json;TTI">file-digest://_assets/arethusa/_site/configs/default.json;TT:charsetI"
+utf-8;F:digest"%–åUî¢®[®—t_P(LÁâCdÂMüâ3›âi 0:lengthi—:dependencies_digest"%ÿ$·ôPtÕ§[nÓsUs°gŸgĞ²›[Ö³ çÿÌ]Í:idI"Ec585453f5bb1a9f4c22fbd9797b372778668dadb791edebbd6be63a592084815;F:
+mtimel+J·ĞZ
