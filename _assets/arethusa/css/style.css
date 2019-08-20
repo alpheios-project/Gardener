@@ -11,3 +11,15 @@ html, body {
 #text {
   margin-top: 1em;
 }
+
+.__artsa .top-bar, .__artsa .top-bar-section .has-form, .__artsa .top-bar-section li:not(.has-form) a:not(.button), .__artsa .top-bar-section ul {
+  background-color: #185f6d !important;
+}
+
+.__artsa .button, .__artsa .label, .__artsa .top-bar-section ul li>a.button, .__artsa button, .__artsa li>button {
+  background-color: #185f6d !important;
+}
+
+.__artsa .navbar-navigation a {
+  color: white !important;
+}
