@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="Alpheios Treebank Collection : Alpheios Greek and Latin Treenkbank Data
+">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="/alpheios-treebanks/assets/css/style.css?v=">
+
+    <title>Alpheios Treebank Collection</title>
+  </head>
+
+  <body>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/alpheios-treebanks/assets/arethusa.packages.min.js"></script>
+<script type="text/javascript" src="/alpheios-treebanks/assets/arethusa.min.js"></script>
+<script type="text/javascript" src="/alpheios-treebanks/assets/arethusa.widget.loader.js"></script>
+<script type="text/javascript">
+
+
+
+var base = "tlg0012.tlg001.alpheios-text-grc1/data/tlg0012.tlg001.alpheios-text-grc1.4.tb.xml"
+
+$(document).ready(function() {
+  var deps = {
+    "css": {
+      "arethusa":"/alpheios-treebanks/assets/css/arethusa.min.css",
+      "colorpicker":"/alpheios-treebanks/assets/css/colorpicker.css",
+      "font_awesome":"/alpheios-treebanks/assets/css/font-awesome.min.css",
+      "foundation":"/alpheios-treebanks/assets/css/foundation-icons.css"
+    },
+    "js":{
+      "arethusa":"/alpheios-treebanks/assets/javascripts/arethusa.min.js",
+      "packages":"/alpheios-treebanks/assets/javascripts/arethusa.packages.min.js"
+    }
+  }
+
+  window.i18npath = "assets/i18n/";
+  window.dagred3path = "vendor/dagre-d3.min.js";
+  let params = (new URL(document.location)).searchParams;
+  let chunk = params.get("chunk");
+  let w = params.get("w")
+  loadArethusaWidget(
+    "treebank_container",
+    "assets/",
+    "assets/tbpub.json",
+    { doc: base, chunk: chunk, w:w },
+    deps
+  );
+});
+</script>
+
+<script>
+    var node;
+    var DOI = ""
+    if(DOI.length > 0) {
+        node = document.getElementById('if-part');
+        node.style.visibility = 'visible';
+        }
+</script>
+
+<div class="__artsa">
+  <div id="treebank_container" style="position:relative;">
+  </div>
+</div>
+
+    </div>
+
+    
+  </body>
+</html>
